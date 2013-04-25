@@ -1,0 +1,995 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html><head><title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body>
+<div style="page-break-before:always; page-break-after:always"><div><p>The Adventure of the Creeping Man</p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div>
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p>M</p>
+<p>r. Sherlock Holmes was always of
+opinion that I should publish the sin-
+gular facts connected with Professor
+Presbury, if only to dispel once for all
+</p>
+<p>the ugly rumours which some twenty years ago
+agitated the university and were echoed in the
+learned societies of London. There were, however,
+certain obstacles in the way, and the true history
+of this curious case remained entombed in the tin
+box which contains so many records of my friend&#8217;s
+adventures. Now we have at last obtained permis-
+sion to ventilate the facts which formed one of the
+very last cases handled by Holmes before his re-
+tirement from practice. Even now a certain reti-
+cence and discretion have to be observed in laying
+the matter before the public.
+</p>
+<p>It was one Sunday evening early in September
+of the year 1903 that I received one of Holmes&#8217;s
+laconic messages:
+</p>
+<p>Come at once if convenient&#8212;if incon-
+venient come all the same.
+</p>
+<p>&#8212; S. H.
+</p>
+<p>The relations between us in those latter days
+were peculiar. He was a man of habits, narrow
+and concentrated habits, and I had become one of
+them. As an institution I was like the violin, the
+shag tobacco, the old black pipe, the index books,
+and others perhaps less excusable. When it was
+a case of active work and a comrade was needed
+upon whose nerve he could place some reliance,
+my role was obvious. But apart from this I had
+uses. I was a whetstone for his mind. I stimu-
+lated him. He liked to think aloud in my presence.
+His remarks could hardly be said to be made to
+me&#8212;many of them would have been as appropri-
+ately addressed to his bedstead&#8212;but none the less,
+having formed the habit, it had become in some
+way helpful that I should register and interject. If
+I irritated him by a certain methodical slowness in
+my mentality, that irritation served only to make
+his own flame-like intuitions and impressions flash
+up the more vividly and swiftly. Such was my
+humble role in our alliance.
+</p>
+<p>When I arrived at Baker Street I found him
+huddled up in his armchair with updrawn knees,
+his pipe in his mouth and his brow furrowed with
+thought. It was clear that he was in the throes of
+some vexatious problem. With a wave of his hand
+he indicated my old armchair, but otherwise for
+half an hour he gave no sign that he was aware
+of my presence. Then with a start he seemed to
+</p>
+<p>come from his reverie, and with his usual whim-
+sical smile he greeted me back to what had once
+been my home.
+</p>
+<p>&#8220;You will excuse a certain abstraction of mind,
+my dear Watson,&#8221; said he. &#8220;Some curious facts
+have been submitted to me within the last twenty-
+four hours, and they in turn have given rise to
+some speculations of a more general character. I
+have serious thoughts of writing a small mono-
+graph upon the uses of dogs in the work of the
+detective.&#8221;
+</p>
+<p>&#8220;But surely, Holmes, this has been explored,&#8221;
+said I. &#8220;Bloodhounds&#8212;sleuth-hounds&#8212;&#8221;
+</p>
+<p>&#8220;No, no, Watson, that side of the matter is, of
+course, obvious. But there is another which is far
+more subtle. You may recollect that in the case
+which you, in your sensational way, coupled with
+the Copper Beeches, I was able, by watching the
+mind of the child, to form a deduction as to the
+criminal habits of the very smug and respectable
+father.&#8221;
+</p>
+<p>&#8220;Yes, I remember it well.&#8221;
+</p>
+<p>&#8220;My line of thoughts about dogs is analogous.
+A dog reflects the family life. Whoever saw a frisky
+dog in a gloomy family, or a sad dog in a happy
+one? Snarling people have snarling dogs, danger-
+ous people have dangerous ones. And their pass-
+ing moods may reflect the passing moods of oth-
+ers.&#8221;
+</p>
+<p>I shook my head. &#8220;Surely, Holmes, this is a
+little far-fetched,&#8221; said I.
+</p>
+<p>He had refilled his pipe and resumed his seat,
+taking no notice of my comment.
+</p>
+<p>&#8220;The practical application of what I have said
+is very close to the problem which I am investi-
+gating. It is a tangled skein, you understand, and
+I am looking for a loose end. One possible loose
+end lies in the question: Why does Professor Pres-
+bury&#8217;s wolfhound, Roy, endeavour to bite him?&#8221;
+</p>
+<p>I sank back in my chair in some disappoint-
+ment. Was it for so trivial a question as this that
+I had been summoned from my work? Holmes
+glanced across at me.
+</p>
+<p>&#8220;The same old Watson!&#8221; said he. &#8220;You never
+learn that the gravest issues may depend upon the
+smallest things. But is it not on the face of it
+strange that a staid, elderly philosopher&#8212;you&#8217;ve
+heard of Presbury, of course, the famous Cam-
+ford physiologist?&#8212;that such a man, whose friend
+has been his devoted wolfhound, should now have
+been twice attacked by his own dog? What do you
+make of it?&#8221;
+</p>
+<p>937</p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p>The Adventure of the Creeping Man
+</p>
+<p>&#8220;The dog is ill.&#8221;
+&#8220;Well, that has to be considered. But he at-
+</p>
+<p>tacks no one else, nor does he apparently molest
+his master, save on very special occasions. Curi-
+ous, Watson&#8212;very curious. But young Mr. Bennett
+is before his time if that is his ring. I had hoped to
+have a longer chat with you before he came.&#8221;
+</p>
+<p>There was a quick step on the stairs, a sharp
+tap at the door, and a moment later the new client
+presented himself. He was a tall, handsome youth
+about thirty, well dressed and elegant, but with
+something in his bearing which suggested the shy-
+ness of the student rather than the self-possession
+of the man of the world. He shook hands with
+Holmes, and then looked with some surprise at
+me.
+</p>
+<p>&#8220;This matter is very delicate, Mr. Holmes,&#8221; he
+said. &#8220;Consider the relation in which I stand to
+Professor Presbury both privately and publicly. I
+really can hardly justify myself if I speak before
+any third person.&#8221;
+</p>
+<p>&#8220;Have no fear, Mr. Bennett. Dr. Watson is the
+very soul of discretion, and I can assure you that
+this is a matter in which I am very likely to need
+an assistant.&#8221;
+</p>
+<p>&#8220;As you like, Mr. Holmes. You will, I am sure,
+understand my having some reserves in the mat-
+ter.&#8221;
+</p>
+<p>&#8220;You will appreciate it, Watson, when I tell you
+that this gentleman, Mr. Trevor Bennett, is profes-
+sional assistant to the great scientist, lives under
+his roof, and is engaged to his only daughter. Cer-
+tainly we must agree that the professor has every
+claim upon his loyalty and devotion. But it may
+best be shown by taking the necessary steps to
+clear up this strange mystery.&#8221;
+</p>
+<p>&#8220;I hope so, Mr. Holmes. That is my one object.
+Does Dr. Watson know the situation?&#8221;
+</p>
+<p>&#8220;I have not had time to explain it.&#8221;
+&#8220;Then perhaps I had better go over the
+</p>
+<p>ground again before explaining some fresh devel-
+opments.&#8221;
+</p>
+<p>&#8220;I will do so myself,&#8221; said Holmes, &#8220;in order to
+show that I have the events in their due order. The
+professor, Watson, is a man of European reputa-
+tion. His life has been academic. There has never
+been a breath of scandal. He is a widower with
+one daughter, Edith. He is, I gather, a man of very
+virile and positive, one might almost say combat-
+ive, character. So the matter stood until a very few
+months ago.
+</p>
+<p>&#8220;Then the current of his life was broken. He is
+sixty-one years of age, but he became engaged to
+</p>
+<p>the daughter of Professor Morphy, his colleague in
+the chair of comparative anatomy. It was not, as
+I understand, the reasoned courting of an elderly
+man but rather the passionate frenzy of youth, for
+no one could have shown himself a more devoted
+lover. The lady, Alice Morphy, was a very perfect
+girl both in mind and body, so that there was ev-
+ery excuse for the professor&#8217;s infatuation. None
+the less, it did not meet with full approval in his
+own family.&#8221;
+</p>
+<p>&#8220;We thought it rather excessive,&#8221; said our visi-
+tor.
+</p>
+<p>&#8220;Exactly. Excessive and a little violent and un-
+natural. Professor Presbury was rich, however, and
+there was no objection upon the part of the father.
+The daughter, however, had other views, and there
+were already several candidates for her hand, who,
+if they were less eligible from a worldly point of
+view, were at least more of an age. The girl seemed
+to like the professor in spite of his eccentricities. It
+was only age which stood in the way.
+</p>
+<p>&#8220;About this time a little mystery suddenly
+clouded the normal routine of the professor&#8217;s life.
+He did what he had never done before. He left
+home and gave no indication where he was go-
+ing. He was away a fortnight and returned looking
+rather travel-worn. He made no allusion to where
+he had been, although he was usually the frank-
+est of men. It chanced, however, that our client
+here, Mr. Bennett, received a letter from a fellow-
+student in Prague, who said that he was glad to
+have seen Professor Presbury there, although he
+had not been able to talk to him. Only in this way
+did his own household learn where he had been.
+</p>
+<p>&#8220;Now comes the point. From that time onward
+a curious change came over the professor. He be-
+came furtive and sly. Those around him had al-
+ways the feeling that he was not the man that they
+had known, but that he was under some shadow
+which had darkened his higher qualities. His in-
+tellect was not affected. His lectures were as bril-
+liant as ever. But always there was something new,
+something sinister and unexpected. His daughter,
+who was devoted to him, tried again and again
+to resume the old relations and to penetrate this
+mask which her father seemed to have put on.
+You, sir, as I understand, did the same&#8212;but all
+was in vain. And now, Mr. Bennett, tell in your
+own words the incident of the letters.&#8221;
+</p>
+<p>&#8220;You must understand, Dr. Watson, that the
+professor had no secrets from me. If I were his
+son or his younger brother I could not have more
+completely enjoyed his confidence. As his secre-
+tary I handled every paper which came to him,
+and I opened and subdivided his letters. Shortly
+</p>
+<p>938</p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p>after his return all this was changed. He told me
+that certain letters might come to him from Lon-
+don which would be marked by a cross under the
+stamp. These were to be set aside for his own
+eyes only. I may say that several of these did
+pass through my hands, that they had the E. C.
+mark, and were in an illiterate handwriting. If
+he answered them at all the answers did not pass
+through my hands nor into the letter-basket in
+which our correspondence was collected.&#8221;
+</p>
+<p>&#8220;And the box,&#8221; said Holmes.
+</p>
+<p>&#8220;Ah, yes, the box. The professor brought back
+a little wooden box from his travels. It was the one
+thing which suggested a Continental tour, for it
+was one of those quaint carved things which one
+associates with Germany. This he placed in his
+instrument cupboard. One day, in looking for a
+canula, I took up the box. To my surprise he was
+very angry, and reproved me in words which were
+quite savage for my curiosity. It was the first time
+such a thing had happened, and I was deeply hurt.
+I endeavoured to explain that it was a mere acci-
+dent that I had touched the box, but all the evening
+I was conscious that he looked at me harshly and
+that the incident was rankling in his mind.&#8221; Mr.
+Bennett drew a little diary book from his pocket.
+&#8220;That was on July 2d,&#8221; said he.
+</p>
+<p>&#8220;You are certainly an admirable witness,&#8221; said
+Holmes. &#8220;I may need some of these dates which
+you have noted.&#8221;
+</p>
+<p>&#8220;I learned method among other things from
+my great teacher. From the time that I observed
+abnormality in his behaviour I felt that it was my
+duty to study his case. Thus I have it here that it
+was on that very day, July 2d, that Roy attacked the
+professor as he came from his study into the hall.
+Again, on July 11th, there was a scene of the same
+sort, and then I have a note of yet another upon
+July 20th. After that we had to banish Roy to the
+stables. He was a dear, affectionate animal&#8212;but I
+fear I weary you.&#8221;
+</p>
+<p>Mr. Bennett spoke in a tone of reproach, for it
+was very clear that Holmes was not listening. His
+face was rigid and his eyes gazed abstractedly at
+the ceiling. With an effort he recovered himself.
+</p>
+<p>&#8220;Singular! Most singular!&#8221; he murmured.
+&#8220;These details were new to me, Mr. Bennett. I
+think we have now fairly gone over the old ground,
+have we not? But you spoke of some fresh devel-
+opments.&#8221;
+</p>
+<p>The pleasant, open face of our visitor clouded
+over, shadowed by some grim remembrance.
+&#8220;What I speak of occurred the night before last,&#8221;
+</p>
+<p>said he. &#8220;I was lying awake about two in the morn-
+ing, when I was aware of a dull muffled sound
+coming from the passage. I opened my door and
+peeped out. I should explain that the professor
+sleeps at the end of the passage&#8212;&#8221;
+</p>
+<p>&#8220;The date being&#8212;?&#8221; asked Holmes.
+Our visitor was clearly annoyed at so irrelevant
+</p>
+<p>an interruption.
+&#8220;I have said, sir, that it was the night before
+</p>
+<p>last&#8212;that is, September 4th.&#8221;
+Holmes nodded and smiled.
+&#8220;Pray continue,&#8221; said he.
+&#8220;He sleeps at the end of the passage and
+</p>
+<p>would have to pass my door in order to reach
+the staircase. It was a really terrifying experience,
+Mr. Holmes. I think that I am as strong-nerved
+as my neighbours, but I was shaken by what I
+saw. The passage was dark save that one window
+halfway along it threw a patch of light. I could
+see that something was coming along the passage,
+something dark and crouching. Then suddenly it
+emerged into the light, and I saw that it was he. He
+was crawling, Mr. Holmes&#8212;crawling! He was not
+quite on his hands and knees. I should rather say
+on his hands and feet, with his face sunk between
+his hands. Yet he seemed to move with ease. I was
+so paralyzed by the sight that it was not until he
+had reached my door that I was able to step for-
+ward and ask if I could assist him. His answer was
+extraordinary. He sprang up, spat out some atro-
+cious word at me, and hurried on past me, and
+down the staircase. I waited about for an hour, but
+he did not come back. It must have been daylight
+before he regained his room.&#8221;
+</p>
+<p>&#8220;Well, Watson, what make you of that?&#8221; asked
+Holmes with the air of the pathologist who
+presents a rare specimen.
+</p>
+<p>&#8220;Lumbago, possibly. I have known a severe at-
+tack make a man walk in just such a way, and noth-
+ing would be more trying to the temper.&#8221;
+</p>
+<p>&#8220;Good, Watson! You always keep us flat-footed
+on the ground. But we can hardly accept lumbago,
+since he was able to stand erect in a moment.&#8221;
+</p>
+<p>&#8220;He was never better in health,&#8221; said Bennett.
+&#8220;In fact, he is stronger than I have known him for
+years. But there are the facts, Mr. Holmes. It is not
+a case in which we can consult the police, and yet
+we are utterly at our wit&#8217;s end as to what to do,
+and we feel in some strange way that we are drift-
+ing towards disaster. Edith&#8212;Miss Presbury&#8212;feels
+as I do, that we cannot wait passively any longer.&#8221;
+</p>
+<p>&#8220;It is certainly a very curious and suggestive
+case. What do you think, Watson?&#8221;
+</p>
+<p>939</p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p>The Adventure of the Creeping Man
+</p>
+<p>&#8220;Speaking as a medical man,&#8221; said I, &#8220;it ap-
+pears to be a case for an alienist. The old gen-
+tleman&#8217;s cerebral processes were disturbed by the
+love affair. He made a journey abroad in the hope
+of breaking himself of the passion. His letters and
+the box may be connected with some other private
+transaction&#8212;a loan, perhaps, or share certificates,
+which are in the box.&#8221;
+</p>
+<p>&#8220;And the wolfhound no doubt disapproved of
+the financial bargain. No, no, Watson, there is
+more in it than this. Now, I can only suggest&#8212;&#8221;
+</p>
+<p>What Sherlock Holmes was about to suggest
+will never be known, for at this moment the door
+opened and a young lady was shown into the
+room. As she appeared Mr. Bennett sprang up
+with a cry and ran forward with his hands out to
+meet those which she had herself outstretched.
+</p>
+<p>&#8220;Edith, dear! Nothing the matter, I hope?&#8221;
+</p>
+<p>&#8220;I felt I must follow you. Oh, Jack, I have been
+so dreadfully frightened! It is awful to be there
+alone.&#8221;
+</p>
+<p>&#8220;Mr. Holmes, this is the young lady I spoke of.
+This is my fiancee.&#8221;
+</p>
+<p>&#8220;We were gradually coming to that conclusion,
+were we not, Watson?&#8221; Holmes answered with
+a smile. &#8220;I take it, Miss Presbury, that there is
+some fresh development in the case, and that you
+thought we should know?&#8221;
+</p>
+<p>Our new visitor, a bright, handsome girl of a
+conventional English type, smiled back at Holmes
+as she seated herself beside Mr. Bennett.
+</p>
+<p>&#8220;When I found Mr. Bennett had left his hotel
+I thought I should probably find him here. Of
+course, he had told me that he would consult you.
+But, oh, Mr. Holmes, can you do nothing for my
+poor father?&#8221;
+</p>
+<p>&#8220;I have hopes, Miss Presbury, but the case is
+still obscure. Perhaps what you have to say may
+throw some fresh light upon it.&#8221;
+</p>
+<p>&#8220;It was last night, Mr. Holmes. He had been
+very strange all day. I am sure that there are times
+when he has no recollection of what he does. He
+lives as in a strange dream. Yesterday was such a
+day. It was not my father with whom I lived. His
+outward shell was there, but it was not really he.&#8221;
+</p>
+<p>&#8220;Tell me what happened.&#8221;
+</p>
+<p>&#8220;I was awakened in the night by the dog bark-
+ing most furiously. Poor Roy, he is chained now
+near the stable. I may say that I always sleep with
+my door locked; for, as Jack&#8212;as Mr. Bennett&#8212;will
+tell you, we all have a feeling of impending danger.
+My room is on the second floor. It happened that
+</p>
+<p>the blind was up in my window, and there was
+bright moonlight outside. As I lay with my eyes
+fixed upon the square of light, listening to the fren-
+zied barkings of the dog, I was amazed to see my
+father&#8217;s face looking in at me. Mr. Holmes, I nearly
+died of surprise and horror. There it was pressed
+against the window-pane, and one hand seemed to
+be raised as if to push up the window. If that win-
+dow had opened, I think I should have gone mad.
+It was no delusion, Mr. Holmes. Don&#8217;t deceive
+yourself by thinking so. I dare say it was twenty
+seconds or so that I lay paralyzed and watched the
+face. Then it vanished, but I could not&#8212;I could
+not spring out of bed and look out after it. I lay
+cold and shivering till morning. At breakfast he
+was sharp and fierce in manner, and made no al-
+lusion to the adventure of the night. Neither did
+I, but I gave an excuse for coming to town&#8212;and
+here I am.&#8221;
+</p>
+<p>Holmes looked thoroughly surprised at Miss
+Presbury&#8217;s narrative.
+</p>
+<p>&#8220;My dear young lady, you say that your room
+is on the second floor. Is there a long ladder in the
+garden?&#8221;
+</p>
+<p>&#8220;No, Mr. Holmes, that is the amazing part of
+it. There is no possible way of reaching the win-
+dow&#8212;and yet he was there.&#8221;
+</p>
+<p>&#8220;The date being September 5th,&#8221; said Holmes.
+&#8220;That certainly complicates matters.&#8221;
+</p>
+<p>It was the young lady&#8217;s turn to look surprised.
+&#8220;This is the second time that you have alluded to
+the date, Mr. Holmes,&#8221; said Bennett. &#8220;Is it possible
+that it has any bearing upon the case?&#8221;
+</p>
+<p>&#8220;It is possible&#8212;very possible&#8212;and yet I have
+not my full material at present.&#8221;
+</p>
+<p>&#8220;Possibly you are thinking of the connection
+between insanity and phases of the moon?&#8221;
+</p>
+<p>&#8220;No, I assure you. It was quite a different
+line of thought. Possibly you can leave your note-
+book with me, and I will check the dates. Now I
+think, Watson, that our line of action is perfectly
+clear. This young lady has informed us&#8212;and I
+have the greatest confidence in her intuition&#8212;that
+her father remembers little or nothing which oc-
+curs upon certain dates. We will therefore call
+upon him as if he had given us an appointment
+upon such a date. He will put it down to his own
+lack of memory. Thus we will open our campaign
+by having a good close view of him.&#8221;
+</p>
+<p>&#8220;That is excellent,&#8221; said Mr. Bennett. &#8220;I warn
+you, however, that the professor is irascible and
+violent at times.&#8221;
+</p>
+<p>Holmes smiled. &#8220;There are reasons why we
+should come at once&#8212;very cogent reasons if my
+</p>
+<p>940</p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p>theories hold good. To-morrow, Mr. Bennett, will
+certainly see us in Camford. There is, if I remem-
+ber right, an inn called the Chequers where the
+port used to be above mediocrity and the linen was
+above reproach. I think, Watson, that our lot for
+the next few days might lie in less pleasant places.&#8221;
+</p>
+<p>Monday morning found us on our way to the
+famous university town&#8212;an easy effort on the part
+of Holmes, who had no roots to pull up, but one
+which involved frantic planning and hurrying on
+my part, as my practice was by this time not incon-
+siderable. Holmes made no allusion to the case
+until after we had deposited our suitcases at the
+ancient hostel of which he had spoken.
+</p>
+<p>&#8220;I think, Watson, that we can catch the profes-
+sor just before lunch. He lectures at eleven and
+should have an interval at home.&#8221;
+</p>
+<p>&#8220;What possible excuse have we for calling?&#8221;
+</p>
+<p>Holmes glanced at his notebook.
+</p>
+<p>&#8220;There was a period of excitement upon Au-
+gust 26th. We will assume that he is a little hazy
+as to what he does at such times. If we insist that
+we are there by appointment I think he will hardly
+venture to contradict us. Have you the effrontery
+necessary to put it through?&#8221;
+</p>
+<p>&#8220;We can but try.&#8221;
+</p>
+<p>&#8220;Excellent, Watson! Compound of the Busy Bee
+and Excelsior. We can but try&#8212;the motto of the
+firm. A friendly native will surely guide us.&#8221;
+</p>
+<p>Such a one on the back of a smart hansom
+swept us past a row of ancient colleges and, finally
+turning into a tree-lined drive, pulled up at the
+door of a charming house, girt round with lawns
+and covered with purple wisteria. Professor Pres-
+bury was certainly surrounded with every sign not
+only of comfort but of luxury. Even as we pulled
+up, a grizzled head appeared at the front window,
+and we were aware of a pair of keen eyes from
+under shaggy brows which surveyed us through
+large horn glasses. A moment later we were actu-
+ally in his sanctum, and the mysterious scientist,
+whose vagaries had brought us from London, was
+standing before us. There was certainly no sign
+of eccentricity either in his manner or appearance,
+for he was a portly, large-featured man, grave,
+tall, and frock-coated, with the dignity of bearing
+which a lecturer needs. His eyes were his most
+remarkable feature, keen, observant, and clever to
+the verge of cunning.
+</p>
+<p>He looked at our cards. &#8220;Pray sit down, gentle-
+men. What can I do for you?&#8221;
+</p>
+<p>Mr. Holmes smiled amiably.
+</p>
+<p>&#8220;It was the question which I was about to put
+to you, Professor.&#8221;
+</p>
+<p>&#8220;To me, sir!&#8221;
+&#8220;Possibly there is some mistake. I heard
+</p>
+<p>through a second person that Professor Presbury
+of Camford had need of my services.&#8221;
+</p>
+<p>&#8220;Oh, indeed!&#8221; It seemed to me that there was
+a malicious sparkle in the intense gray eyes. &#8220;You
+heard that, did you? May I ask the name of your
+informant?&#8221;
+</p>
+<p>&#8220;I am sorry, Professor, but the matter was
+rather confidential. If I have made a mistake there
+is no harm done. I can only express my regret.&#8221;
+</p>
+<p>&#8220;Not at all. I should wish to go further into
+this matter. It interests me. Have you any scrap
+of writing, any letter or telegram, to bear out your
+assertion?&#8221;
+</p>
+<p>&#8220;No, I have not.&#8221;
+&#8220;I presume that you do not go so far as to assert
+</p>
+<p>that I summoned you?&#8221;
+&#8220;I would rather answer no questions,&#8221; said
+</p>
+<p>Holmes.
+&#8220;No, I dare say not,&#8221; said the professor with
+</p>
+<p>asperity. &#8220;However, that particular one can be an-
+swered very easily without your aid.&#8221;
+</p>
+<p>He walked across the room to the bell. Our
+London friend, Mr. Bennett, answered the call.
+</p>
+<p>&#8220;Come in, Mr. Bennett. These two gentlemen
+have come from London under the impression that
+they have been summoned. You handle all my cor-
+respondence. Have you a note of anything going
+to a person named Holmes?&#8221;
+</p>
+<p>&#8220;No, sir,&#8221; Bennett answered with a flush.
+&#8220;That is conclusive,&#8221; said the professor, glaring
+</p>
+<p>angrily at my companion. &#8220;Now, sir&#8221;&#8212;he leaned
+forward with his two hands upon the table&#8212;&#8220;it
+seems to me that your position is a very question-
+able one.&#8221;
+</p>
+<p>Holmes shrugged his shoulders.
+&#8220;I can only repeat that I am sorry that we have
+</p>
+<p>made a needless intrusion.&#8221;
+&#8220;Hardly enough, Mr. Holmes!&#8221; the old man
+</p>
+<p>cried in a high screaming voice, with extraordinary
+malignancy upon his face. He got between us and
+the door as he spoke, and he shook his two hands
+at us with furious passion. &#8220;You can hardly get
+out of it so easily as that.&#8221; His face was convulsed,
+and he grinned and gibbered at us in his senseless
+rage. I am convinced that we should have had to
+fight our way out of the room if Mr. Bennett had
+not intervened.
+</p>
+<p>&#8220;My dear Professor,&#8221; he cried, &#8220;consider your
+position! Consider the scandal at the university!
+</p>
+<p>941</p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p>The Adventure of the Creeping Man
+</p>
+<p>Mr. Holmes is a well-known man. You cannot pos-
+sibly treat him with such discourtesy.&#8221;
+</p>
+<p>Sulkily our host&#8212;if I may call him so&#8212;cleared
+the path to the door. We were glad to find our-
+selves outside the house and in the quiet of the
+tree-lined drive. Holmes seemed greatly amused
+by the episode.
+</p>
+<p>&#8220;Our learned friend&#8217;s nerves are somewhat out
+of order,&#8221; said he. &#8220;Perhaps our intrusion was a
+little crude, and yet we have gained that personal
+contact which I desired. But, dear me, Watson, he
+is surely at our heels. The villain still pursues us.&#8221;
+</p>
+<p>There were the sounds of running feet behind,
+but it was, to my relief, not the formidable pro-
+fessor but his assistant who appeared round the
+curve of the drive. He came panting up to us.
+</p>
+<p>&#8220;I am so sorry, Mr. Holmes. I wished to apolo-
+gize.&#8221;
+</p>
+<p>&#8220;My dear sir, there is no need. It is all in the
+way of professional experience.&#8221;
+</p>
+<p>&#8220;I have never seen him in a more dangerous
+mood. But he grows more sinister. You can under-
+stand now why his daughter and I are alarmed.
+And yet his mind is perfectly clear.&#8221;
+</p>
+<p>&#8220;Too clear!&#8221; said Holmes. &#8220;That was my mis-
+calculation. It is evident that his memory is much
+more reliable than I had thought. By the way, can
+we, before we go, see the window of Miss Pres-
+bury&#8217;s room?&#8221;
+</p>
+<p>Mr. Bennett pushed his way through some
+shrubs, and we had a view of the side of the house.
+</p>
+<p>&#8220;It is there. The second on the left.&#8221;
+</p>
+<p>&#8220;Dear me, it seems hardly accessible. And yet
+you will observe that there is a creeper below and
+a water-pipe above which give some foothold.&#8221;
+</p>
+<p>&#8220;I could not climb it myself,&#8221; said Mr. Bennett.
+</p>
+<p>&#8220;Very likely. It would certainly be a dangerous
+exploit for any normal man.&#8221;
+</p>
+<p>&#8220;There was one other thing I wish to tell you,
+Mr. Holmes. I have the address of the man in
+London to whom the professor writes. He seems
+to have written this morning, and I got it from
+his blotting-paper. It is an ignoble position for a
+trusted secretary, but what else can I do?&#8221;
+</p>
+<p>Holmes glanced at the paper and put it into his
+pocket.
+</p>
+<p>&#8220;Dorak&#8212;a curious name. Slavonic, I imagine.
+Well, it is an important link in the chain. We return
+to London this afternoon, Mr. Bennett. I see no
+good purpose to be served by our remaining. We
+cannot arrest the professor because he has done no
+</p>
+<p>crime, nor can we place him under constraint, for
+he cannot be proved to be mad. No action is as yet
+possible.&#8221;
+</p>
+<p>&#8220;Then what on earth are we to do?&#8221;
+&#8220;A little patience, Mr. Bennett. Things will
+</p>
+<p>soon develop. Unless I am mistaken, next Tues-
+day may mark a crisis. Certainly we shall be in
+Camford on that day. Meanwhile, the general po-
+sition is undeniably unpleasant, and if Miss Pres-
+bury can prolong her visit&#8212;&#8221;
+</p>
+<p>&#8220;That is easy.&#8221;
+&#8220;Then let her stay till we can assure her that all
+</p>
+<p>danger is past. Meanwhile, let him have his way
+and do not cross him. So long as he is in a good
+humour all is well.&#8221;
+</p>
+<p>&#8220;There he is!&#8221; said Bennett in a startled whis-
+per. Looking between the branches we saw the
+tall, erect figure emerge from the hall door and
+look around him. He stood leaning forward, his
+hands swinging straight before him, his head turn-
+ing from side to side. The secretary with a last
+wave slipped off among the trees, and we saw him
+presently rejoin his employer, the two entering the
+house together in what seemed to be animated and
+even excited conversation.
+</p>
+<p>&#8220;I expect the old gentleman has been putting
+two and two together,&#8221; said Holmes as we walked
+hotelward. &#8220;He struck me as having a particularly
+clear and logical brain from the little I saw of him.
+Explosive, no doubt, but then from his point of
+view he has something to explode about if detec-
+tives are put on his track and he suspects his own
+household of doing it. I rather fancy that friend
+Bennett is in for an uncomfortable time.&#8221;
+</p>
+<p>Holmes stopped at a post-office and sent off a
+telegram on our way. The answer reached us in
+the evening, and he tossed it across to me.
+</p>
+<p>Have visited the Commercial Road and
+seen Dorak. Suave person, Bohemian,
+elderly. Keeps large general store.
+</p>
+<p>&#8212; Mercer.
+</p>
+<p>&#8220;Mercer is since your time,&#8221; said Holmes. &#8220;He
+is my general utility man who looks up routine
+business. It was important to know something of
+the man with whom our professor was so secretly
+corresponding. His nationality connects up with
+the Prague visit.&#8221;
+</p>
+<p>&#8220;Thank goodness that something connects with
+something,&#8221; said I. &#8220;At present we seem to be
+faced by a long series of inexplicable incidents
+with no bearing upon each other. For example,
+what possible connection can there be between an
+angry wolfhound and a visit to Bohemia, or either
+</p>
+<p>942</p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p>of them with a man crawling down a passage at
+night? As to your dates, that is the biggest mysti-
+fication of all.&#8221;
+</p>
+<p>Holmes smiled and rubbed his hands. We
+were, I may say, seated in the old sitting-room of
+the ancient hotel, with a bottle of the famous vin-
+tage of which Holmes had spoken on the table be-
+tween us.
+</p>
+<p>&#8220;Well, now, let us take the dates first,&#8221; said
+he, his finger-tips together and his manner as if
+he were addressing a class. &#8220;This excellent young
+man&#8217;s diary shows that there was trouble upon
+July 2d, and from then onward it seems to have
+been at nine-day intervals, with, so far as I remem-
+ber, only one exception. Thus the last outbreak
+upon Friday was on September 3d, which also falls
+into the series, as did August 26th, which preceded
+it. The thing is beyond coincidence.&#8221;
+</p>
+<p>I was forced to agree.
+</p>
+<p>&#8220;Let us, then, form the provisional theory that
+every nine days the professor takes some strong
+drug which has a passing but highly poisonous
+effect. His naturally violent nature is intensified
+by it. He learned to take this drug while he was in
+Prague, and is now supplied with it by a Bohemian
+intermediary in London. This all hangs together,
+Watson!&#8221;
+</p>
+<p>&#8220;But the dog, the face at the window, the creep-
+ing man in the passage?&#8221;
+</p>
+<p>&#8220;Well, well, we have made a beginning. I
+should not expect any fresh developments until
+next Tuesday. In the meantime we can only keep in
+touch with friend Bennett and enjoy the amenities
+of this charming town.&#8221;
+</p>
+<p>In the morning Mr. Bennett slipped round to
+bring us the latest report. As Holmes had imag-
+ined, times had not been easy with him. With-
+out exactly accusing him of being responsible for
+our presence, the professor had been very rough
+and rude in his speech, and evidently felt some
+strong grievance. This morning he was quite him-
+self again, however, and had delivered his usual
+brilliant lecture to a crowded class. &#8220;Apart from
+his queer fits,&#8221; said Bennett, &#8220;he has actually more
+energy and vitality than I can ever remember, nor
+was his brain ever clearer. But it&#8217;s not he&#8212;it&#8217;s
+never the man whom we have known.&#8221;
+</p>
+<p>&#8220;I don&#8217;t think you have anything to fear now
+for a week at least,&#8221; Holmes answered. &#8220;I am a
+busy man, and Dr. Watson has his patients to at-
+tend to. Let us agree that we meet here at this hour
+next Tuesday, and I shall be surprised if before we
+leave you again we are not able to explain, even if
+</p>
+<p>we cannot perhaps put an end to, your troubles.
+Meanwhile, keep us posted in what occurs.&#8221;
+</p>
+<p>I saw nothing of my friend for the next few
+days, but on the following Monday evening I had
+a short note asking me to meet him next day at
+the train. From what he told me as we travelled
+up to Camford all was well, the peace of the pro-
+fessor&#8217;s house had been unruffled, and his own
+conduct perfectly normal. This also was the report
+which was given us by Mr. Bennett himself when
+he called upon us that evening at our old quarters
+in the Chequers. &#8220;He heard from his London cor-
+respondent to-day. There was a letter and there
+was a small packet, each with the cross under the
+stamp which warned me not to touch them. There
+has been nothing else.&#8221;
+</p>
+<p>&#8220;That may prove quite enough,&#8221; said Holmes
+grimly. &#8220;Now, Mr. Bennett, we shall, I think, come
+to some conclusion to-night. If my deductions are
+correct we should have an opportunity of bringing
+matters to a head. In order to do so it is necessary
+to hold the professor under observation. I would
+suggest, therefore, that you remain awake and on
+the lookout. Should you hear him pass your door,
+do not interrupt him, but follow him as discreetly
+as you can. Dr. Watson and I will not be far off. By
+the way, where is the key of that little box of which
+you spoke?&#8221;
+</p>
+<p>&#8220;Upon his watch-chain.&#8221;
+&#8220;I fancy our researches must lie in that direc-
+</p>
+<p>tion. At the worst the lock should not be very
+formidable. Have you any other able-bodied man
+on the premises?&#8221;
+</p>
+<p>&#8220;There is the coachman, Macphail.&#8221;
+&#8220;Where does he sleep?&#8221;
+&#8220;Over the stables.&#8221;
+&#8220;We might possibly want him. Well, we can do
+</p>
+<p>no more until we see how things develop. Good-
+bye&#8212;but I expect that we shall see you before
+morning.&#8221;
+</p>
+<p>It was nearly midnight before we took our sta-
+tion among some bushes immediately opposite the
+hall door of the professor. It was a fine night, but
+chilly, and we were glad of our warm overcoats.
+There was a breeze, and clouds were scudding
+across the sky, obscuring from time to time the
+half-moon. It would have been a dismal vigil were
+it not for the expectation and excitement which
+carried us along, and the assurance of my com-
+rade that we had probably reached the end of the
+strange sequence of events which had engaged our
+attention.
+</p>
+<p>&#8220;If the cycle of nine days holds good then we
+shall have the professor at his worst to-night,&#8221; said
+</p>
+<p>943</p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p>The Adventure of the Creeping Man
+</p>
+<p>Holmes. &#8220;The fact that these strange symptoms
+began after his visit to Prague, that he is in se-
+cret correspondence with a Bohemian dealer in
+London, who presumably represents someone in
+Prague, and that he received a packet from him
+this very day, all point in one direction. What he
+takes and why he takes it are still beyond our ken,
+but that it emanates in some way from Prague is
+clear enough. He takes it under definite directions
+which regulate this ninth-day system, which was
+the first point which attracted my attention. But
+his symptoms are most remarkable. Did you ob-
+serve his knuckles?&#8221;
+</p>
+<p>I had to confess that I did not.
+</p>
+<p>&#8220;Thick and horny in a way which is quite new
+in my experience. Always look at the hands first,
+Watson. Then cuffs, trouser-knees, and boots. Very
+curious knuckles which can only be explained by
+the mode of progression observed by&#8212;&#8221; Holmes
+paused and suddenly clapped his hand to his fore-
+head. &#8220;Oh, Watson, Watson, what a fool I have
+been! It seems incredible, and yet it must be true.
+All points in one direction. How could I miss see-
+ing the connection of ideas? Those knuckles&#8212;how
+could I have passed those knuckles? And the dog!
+And the ivy! It&#8217;s surely time that I disappeared
+into that little farm of my dreams. Look out, Wat-
+son! Here he is! We shall have the chance of seeing
+for ourselves.&#8221;
+</p>
+<p>The hall door had slowly opened, and against
+the lamplit background we saw the tall figure of
+Professor Presbury. He was clad in his dressing-
+gown. As he stood outlined in the doorway he was
+erect but leaning forward with dangling arms, as
+when we saw him last.
+</p>
+<p>Now he stepped forward into the drive, and
+an extraordinary change came over him. He sank
+down into a crouching position and moved along
+upon his hands and feet, skipping every now and
+then as if he were overflowing with energy and vi-
+tality. He moved along the face of the house and
+then round the corner. As he disappeared Bennett
+slipped through the hall door and softly followed
+him.
+</p>
+<p>&#8220;Come, Watson, come!&#8221; cried Holmes, and we
+stole as softly as we could through the bushes un-
+til we had gained a spot whence we could see
+the other side of the house, which was bathed
+in the light of the half-moon. The professor was
+clearly visible crouching at the foot of the ivy-
+covered wall. As we watched him he suddenly
+began with incredible agility to ascend it. From
+branch to branch he sprang, sure of foot and firm
+of grasp, climbing apparently in mere joy at his
+</p>
+<p>own powers, with no definite object in view. With
+his dressing-gown flappin

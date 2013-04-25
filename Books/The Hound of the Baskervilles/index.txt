@@ -1,0 +1,15 @@
+50.txt~~~Chapter 1 — Mr. Sherlock Holmes
+51.txt~~~Chapter 2 — The Curse of the Baskervilles
+52.txt~~~Chapter 3 — The Problem
+53.txt~~~Chapter 4 — Sir Henry Baskerville
+54.txt~~~Chapter 5 — Three Broken Threads
+55.txt~~~Chapter 6 — Baskerville Hall
+56.txt~~~Chapter 7 — The Stapletons of Merripit House
+57.txt~~~Chapter 8 — First Report of Dr. Watson
+58.txt~~~Chapter 9 — Second Report of Dr. Watson
+59.txt~~~Chapter 10 — Extract from the Diary of Dr. Watson
+60.txt~~~Chapter 11 — The Man on the Tor
+61.txt~~~Chapter 12 — Death on the Moor
+62.txt~~~Chapter 13 — Fixing the Nets
+63.txt~~~Chapter 14 — The Hound of the Baskervilles
+64.txt~~~Chapter 15 — A Retrospection

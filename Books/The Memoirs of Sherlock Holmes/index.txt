@@ -1,0 +1,11 @@
+13.txt~~~Silver Blaze
+14.txt~~~The Yellow Face
+15.txt~~~The Stock-Broker's Clerk
+16.txt~~~The “Gloria Scott”
+17.txt~~~The Musgrave Ritual
+18.txt~~~The Reigate Puzzle
+19.txt~~~The Crooked Man
+20.txt~~~The Resident Patient
+21.txt~~~The Greek Interpreter
+22.txt~~~The Naval Treaty
+23.txt~~~The Final Problem

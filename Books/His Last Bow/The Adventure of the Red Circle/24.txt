@@ -1,0 +1,606 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html><head><title>CHAPTERI.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body>
+<div style="page-break-before:always; page-break-after:always"><div><p>Part One
+</p>
+<p>CHAPTER I.
+Part One
+</p>
+<p>W
+</p>
+<p>ell, Mrs. Warren, I cannot see that you
+have any particular cause for uneasi-
+ness, nor do I understand why I, whose
+time is of some value, should interfere
+</p>
+<p>in the matter. I really have other things to engage
+me.&#8221; So spoke Sherlock Holmes and turned back
+to the great scrapbook in which he was arranging
+and indexing some of his recent material.
+</p>
+<p>But the landlady had the pertinacity and also
+the cunning of her sex. She held her ground firmly.
+</p>
+<p>&#8220;You arranged an affair for a lodger of mine
+last year,&#8221; she said&#8212;&#8220;Mr. Fairdale Hobbs.&#8221;
+</p>
+<p>&#8220;Ah, yes&#8212;a simple matter.&#8221;
+&#8220;But he would never cease talking of it&#8212;your
+</p>
+<p>kindness, sir, and the way in which you brought
+light into the darkness. I remembered his words
+when I was in doubt and darkness myself. I know
+you could if you only would.&#8221;
+</p>
+<p>Holmes was accessible upon the side of flattery,
+and also, to do him justice, upon the side of kindli-
+ness. The two forces made him lay down his gum-
+brush with a sigh of resignation and push back his
+chair.
+</p>
+<p>&#8220;Well, well, Mrs. Warren, let us hear about it,
+then. You don&#8217;t object to tobacco, I take it? Thank
+you, Watson&#8212;the matches! You are uneasy, as I
+understand, because your new lodger remains in
+his rooms and you cannot see him. Why, bless
+you, Mrs. Warren, if I were your lodger you often
+would not see me for weeks on end.&#8221;
+</p>
+<p>&#8220;No doubt, sir; but this is different. It fright-
+ens me, Mr. Holmes. I can&#8217;t sleep for fright. To
+hear his quick step moving here and moving there
+from early morning to late at night, and yet never
+to catch so much as a glimpse of him&#8212;it&#8217;s more
+than I can stand. My husband is as nervous over
+it as I am, but he is out at his work all day, while
+I get no rest from it. What is he hiding for? What
+has he done? Except for the girl, I am all alone in
+the house with him, and it&#8217;s more than my nerves
+can stand.&#8221;
+</p>
+<p>Holmes leaned forward and laid his long, thin
+fingers upon the woman&#8217;s shoulder. He had an al-
+most hypnotic power of soothing when he wished.
+The scared look faded from her eyes, and her agi-
+tated features smoothed into their usual common-
+place. She sat down in the chair which he had
+indicated.
+</p>
+<p>&#8220;If I take it up I must understand every detail,&#8221;
+said he. &#8220;Take time to consider. The smallest point
+</p>
+<p>may be the most essential. You say that the man
+came ten days ago and paid you for a fortnight&#8217;s
+board and lodging?&#8221;
+</p>
+<p>&#8220;He asked my terms, sir. I said fifty shillings a
+week. There is a small sitting-room and bedroom,
+and all complete, at the top of the house.&#8221;
+</p>
+<p>&#8220;Well?&#8221;
+</p>
+<p>&#8220;He said, &#8216;I&#8217;ll pay you five pounds a week if I
+can have it on my own terms.&#8217; I&#8217;m a poor woman,
+sir, and Mr. Warren earns little, and the money
+meant much to me. He took out a ten-pound note,
+and he held it out to me then and there. &#8216;You can
+have the same every fortnight for a long time to
+come if you keep the terms,&#8217; he said. &#8216;If not, I&#8217;ll
+have no more to do with you.&#8217;
+</p>
+<p>&#8220;What were the terms?&#8221;
+</p>
+<p>&#8220;Well, sir, they were that he was to have a key
+of the house. That was all right. Lodgers often
+have them. Also, that he was to be left entirely
+to himself and never, upon any excuse, to be dis-
+turbed.&#8221;
+</p>
+<p>&#8220;Nothing wonderful in that, surely?&#8221;
+</p>
+<p>&#8220;Not in reason, sir. But this is out of all reason.
+He has been there for ten days, and neither Mr.
+Warren, nor I, nor the girl has once set eyes upon
+him. We can hear that quick step of his pacing
+up and down, up and down, night, morning, and
+noon; but except on that first night he had never
+once gone out of the house.&#8221;
+</p>
+<p>&#8220;Oh, he went out the first night, did he?&#8221;
+</p>
+<p>&#8220;Yes, sir, and returned very late&#8212;after we were
+all in bed. He told me after he had taken the rooms
+that he would do so and asked me not to bar the
+door. I heard him come up the stair after mid-
+night.&#8221;
+</p>
+<p>&#8220;But his meals?&#8221;
+</p>
+<p>&#8220;It was his particular direction that we should
+always, when he rang, leave his meal upon a chair,
+outside his door. Then he rings again when he has
+finished, and we take it down from the same chair.
+If he wants anything else he prints it on a slip of
+paper and leaves it.&#8221;
+</p>
+<p>&#8220;Prints it?&#8221;
+</p>
+<p>&#8220;Yes, sir; prints it in pencil. Just the word,
+nothing more. Here&#8217;s the one I brought to show
+you&#8212;soap. Here&#8217;s another&#8212;match. This is one
+he left the first morning&#8212;daily gazette. I leave
+that paper with his breakfast every morning.&#8221;
+</p>
+<p>779</p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p>The Adventure of the Red Circle
+</p>
+<p>&#8220;Dear me, Watson,&#8221; said Homes, staring with
+great curiosity at the slips of foolscap which the
+landlady had handed to him, &#8220;this is certainly a
+little unusual. Seclusion I can understand; but
+why print? Printing is a clumsy process. Why not
+write? What would it suggest, Watson?&#8221;
+</p>
+<p>&#8220;That he desired to conceal his handwriting.&#8221;
+</p>
+<p>&#8220;But why? What can it matter to him that his
+landlady should have a word of his writing? Still,
+it may be as you say. Then, again, why such la-
+conic messages?&#8221;
+</p>
+<p>&#8220;I cannot imagine.&#8221;
+</p>
+<p>&#8220;It opens a pleasing field for intelligent spec-
+ulation. The words are written with a broad-
+pointed, violet-tinted pencil of a not unusual pat-
+tern. You will observe that the paper is torn away
+at the side here after the printing was done, so that
+the &#8216;s&#8217; of &#8216;soap&#8217; is partly gone. Suggestive, Watson,
+is it not?&#8221;
+</p>
+<p>&#8220;Of caution?&#8221;
+</p>
+<p>&#8220;Exactly. There was evidently some mark,
+some thumbprint, something which might give a
+clue to the person&#8217;s identity. Now. Mrs. Warren,
+you say that the man was of middle size, dark, and
+bearded. What age would he be?&#8221;
+</p>
+<p>&#8220;Youngish, sir&#8212;not over thirty.&#8221;
+</p>
+<p>&#8220;Well, can you give me no further indications?&#8221;
+</p>
+<p>&#8220;He spoke good English, sir, and yet I thought
+he was a foreigner by his accent.&#8221;
+</p>
+<p>&#8220;And he was well dressed?&#8221;
+</p>
+<p>&#8220;Very smartly dressed, sir&#8212;quite the gentle-
+man. Dark clothes&#8212;nothing you would note.&#8221;
+</p>
+<p>&#8220;He gave no name?&#8221;
+</p>
+<p>&#8220;No, sir.&#8221;
+</p>
+<p>&#8220;And has had no letters or callers?&#8221;
+</p>
+<p>&#8220;None.&#8221;
+</p>
+<p>&#8220;But surely you or the girl enter his room of a
+morning?&#8221;
+</p>
+<p>&#8220;No, sir; he looks after himself entirely.&#8221;
+</p>
+<p>&#8220;Dear me! that is certainly remarkable. What
+about his luggage?&#8221;
+</p>
+<p>&#8220;He had one big brown bag with him&#8212;nothing
+else.&#8221;
+</p>
+<p>&#8220;Well, we don&#8217;t seem to have much material to
+help us. Do you say nothing has come out of that
+room&#8212;absolutely nothing?&#8221;
+</p>
+<p>The landlady drew an envelope from her bag;
+from it she shook out two burnt matches and a
+cigarette-end upon the table.
+</p>
+<p>&#8220;They were on his tray this morning. I brought
+them because I had heard that you can read great
+things out of small ones.&#8221;
+</p>
+<p>Holmes shrugged his shoulders.
+&#8220;There is nothing here,&#8221; said he. &#8220;The matches
+</p>
+<p>have, of course, been used to light cigarettes. That
+is obvious from the shortness of the burnt end.
+Half the match is consumed in lighting a pipe or
+cigar. But, dear me! this cigarette stub is cer-
+tainly remarkable. The gentleman was bearded
+and moustached, you say?&#8221;
+</p>
+<p>&#8220;Yes, sir.&#8221;
+&#8220;I don&#8217;t understand that. I should say that only
+</p>
+<p>a clean-shaven man could have smoked this. Why,
+Watson, even your modest moustache would have
+been singed.&#8221;
+</p>
+<p>&#8220;A holder?&#8221; I suggested.
+&#8220;No, no; the end is matted. I suppose there
+</p>
+<p>could not be two people in your rooms, Mrs. War-
+ren?&#8221;
+</p>
+<p>&#8220;No, sir. He eats so little that I often wonder it
+can keep life in one.&#8221;
+</p>
+<p>&#8220;Well, I think we must wait for a little more
+material. After all, you have nothing to complain
+of. You have received your rent, and he is not a
+troublesome lodger, though he is certainly an un-
+usual one. He pays you well, and if he chooses
+to lie concealed it is no direct business of yours.
+We have no excuse for an intrusion upon his pri-
+vacy until we have some reason to think that there
+is a guilty reason for it. I&#8217;ve taken up the matter,
+and I won&#8217;t lose sight of it. Report to me if any-
+thing fresh occurs, and rely upon my assistance if
+it should be needed.
+</p>
+<p>&#8220;There are certainly some points of interest in
+this case, Watson,&#8221; he remarked when the land-
+lady had left us. &#8220;It may, of course, be triv-
+ial&#8212;individual eccentricity; or it may be very
+much deeper than appears on the surface. The first
+thing that strike one is the obvious possibility that
+the person now in the rooms may be entirely dif-
+ferent from the one who engaged them.&#8221;
+</p>
+<p>&#8220;Why should you think so?&#8221;
+&#8220;Well, apart form this cigarette-end, was it not
+</p>
+<p>suggestive that the only time the lodger went out
+was immediately after his taking the rooms? He
+came back&#8212;or someone came back&#8212;when all wit-
+nesses were out of the way. We have no proof
+that the person who came back was the person
+who went out. Then, again, the man who took
+the rooms spoke English well. This other, however,
+prints &#8216;match&#8217; when it should have been &#8216;matches.&#8217;
+I can imagine that the word was taken out of a
+dictionary, which would give the noun but not the
+</p>
+<p>780</p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p>Part One
+</p>
+<p>plural. The laconic style may be to conceal the ab-
+sence of knowledge of English. Yes, Watson, there
+are good reasons to suspect that there has been a
+substitution of lodgers.&#8221;
+</p>
+<p>&#8220;But for what possible end?&#8221;
+</p>
+<p>&#8220;Ah! there lies our problem. There is one
+rather obvious line of investigation.&#8221; He took
+down the great book in which, day by day, he
+filed the agony columns of the various London
+journals. &#8220;Dear me!&#8221; said he, turning over the
+pages, &#8220;what a chorus of groans, cries, and bleat-
+ings! What a rag-bag of singular happenings! But
+surely the most valuable hunting-ground that ever
+was given to a student of the unusual! This per-
+son is alone and cannot be approached by letter
+without a breach of that absolute secrecy which
+is desired. How is any news or any message to
+reach him from without? Obviously by adver-
+tisement through a newspaper. There seems no
+other way, and fortunately we need concern our-
+selves with the one paper only. Here are the Daily
+Gazette extracts of the last fortnight. &#8216;Lady with a
+black boa at Prince&#8217;s Skating Club&#8217;&#8212;that we may
+pass. &#8216;Surely Jimmy will not break his mother&#8217;s
+heart&#8217;&#8212;that appears to be irrelevant. &#8216;If the lady
+who fainted on Brixton bus&#8217;&#8212;she does not inter-
+est me. &#8216;Every day my heart longs&#8212;&#8217; Bleat, Wat-
+son&#8212;unmitigated bleat! Ah, this is a little more
+possible. Listen to this: &#8216;Be patient. Will find
+some sure means of communications. Meanwhile,
+this column. G.&#8217; That is two days after Mrs. War-
+ren&#8217;s lodger arrived. It sounds plausible, does it
+not? The mysterious one could understand En-
+glish, even if he could not print it. Let us see
+if we can pick up the trace again. Yes, here we
+are&#8212;three days later. &#8216;Am making successful ar-
+rangements. Patience and prudence. The clouds
+will pass. G.&#8217; Nothing for a week after that. Then
+comes something much more definite: &#8216;The path
+is clearing. If I find chance signal message remem-
+ber code agreed&#8212;One A, two B, and so on. You
+will hear soon. G.&#8217; That was in yesterday&#8217;s paper,
+and there is nothing in to-day&#8217;s. It&#8217;s all very ap-
+propriate to Mrs. Warren&#8217;s lodger. If we wait a lit-
+tle, Watson, I don&#8217;t doubt that the affair will grow
+more intelligible.&#8221;
+</p>
+<p>So it proved; for in the morning I found my
+friend standing on the hearthrug with his back to
+the fire and a smile of complete satisfaction upon
+his face.
+</p>
+<p>&#8220;How&#8217;s this, Watson?&#8221; he cried, picking up the
+paper from the table. &#8220;&#8217;High red house with white
+stone facings. Third floor. Second window left. Af-
+ter dusk. G.&#8217; That is definite enough. I think after
+</p>
+<p>breakfast we must make a little reconnaissance of
+Mrs. Warren&#8217;s neighbourhood. Ah, Mrs. Warren!
+what news do you bring us this morning?&#8221;
+</p>
+<p>Our client had suddenly burst into the room
+with an explosive energy which told of some new
+and momentous development.
+</p>
+<p>&#8220;It&#8217;s a police matter, Mr. Holmes!&#8221; she cried.
+&#8220;I&#8217;ll have no more of it! He shall pack out of there
+with his baggage. I would have gone straight up
+and told him so, only I thought it was but fair to
+you to take your opinion first. But I&#8217;m at the end
+of my patience, and when it comes to knocking my
+old man about&#8212;&#8221;
+</p>
+<p>&#8220;Knocking Mr. Warren about?&#8221;
+&#8220;Using him roughly, anyway.&#8221;
+&#8220;But who used him roughly?&#8221;
+&#8220;Ah! that&#8217;s what we want to know! It was this
+</p>
+<p>morning, sir. Mr. Warren is a timekeeper at Mor-
+ton and Waylight&#8217;s, in Tottenham Court Road. He
+has to be out of the house before seven. Well, this
+morning he had not gone ten paces down the road
+when two men came up behind him, threw a coat
+over his head, and bundled him into a cab that was
+beside the curb. They drove him an hour, and then
+opened the door and shot him out. He lay in the
+roadway so shaken in his wits that he never saw
+what became of the cab. When he picked himself
+up he found he was on Hampstead Heath; so he
+took a bus home, and there he lies now on his sofa,
+while I came straight round to tell you what had
+happened.&#8221;
+</p>
+<p>&#8220;Most interesting,&#8221; said Holmes. &#8220;Did he ob-
+serve the appearance of these men&#8212;did he hear
+them talk?&#8221;
+</p>
+<p>&#8220;No; he is clean dazed. He just knows that he
+was lifted up as if by magic and dropped as if by
+magic. Two a least were in it, and maybe three.&#8221;
+</p>
+<p>&#8220;And you connect this attack with your
+lodger?&#8221;
+</p>
+<p>&#8220;Well, we&#8217;ve lived there fifteen years and no
+such happenings ever came before. I&#8217;ve had
+enough of him. Money&#8217;s not everything. I&#8217;ll have
+him out of my house before the day is done.&#8221;
+</p>
+<p>&#8220;Wait a bit, Mrs. Warren. Do nothing rash. I be-
+gin to think that this affair may be very much more
+important than appeared at first sight. It is clear
+now that some danger is threatening your lodger.
+It is equally clear that his enemies, lying in wait
+for him near your door, mistook your husband for
+him in the foggy morning light. On discovering
+their mistake they released him. What they would
+have done had it not been a mistake, we can only
+conjecture.&#8221;
+</p>
+<p>&#8220;Well, what am I to do, Mr. Holmes?&#8221;
+</p>
+<p>781</p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p>The Adventure of the Red Circle
+</p>
+<p>&#8220;I have a great fancy to see this lodger of yours,
+Mrs. Warren.&#8221;
+</p>
+<p>&#8220;I don&#8217;t see how that is to be managed, unless
+you break in the door. I always hear him unlock it
+as I go down the stair after I leave the tray.&#8221;
+</p>
+<p>&#8220;He has to take the tray in. Surely we could
+conceal ourselves and see him do it.&#8221;
+</p>
+<p>The landlady thought for a moment.
+</p>
+<p>&#8220;Well, sir, there&#8217;s the box-room opposite. I
+could arrange a looking-glass, maybe, and if you
+were behind the door&#8212;&#8221;
+</p>
+<p>&#8220;Excellent!&#8221; said Holmes. &#8220;When does he
+lunch?&#8221;
+</p>
+<p>&#8220;About one, sir.&#8221;
+</p>
+<p>&#8220;Then Dr. Watson and I will come round in
+time. For the present, Mrs. Warren, good-bye.&#8221;
+</p>
+<p>At half-past twelve we found ourselves upon
+the steps of Mrs. Warren&#8217;s house&#8212;a high, thin,
+yellow-brick edifice in Great Orme Street, a narrow
+thoroughfare at the northeast side of the British
+Museum. Standing as it does near the corner of
+the street, it commands a view down Howe Street,
+with its ore pretentious houses. Holmes pointed
+with a chuckle to one of these, a row of residential
+flats, which projected so that they could not fail to
+catch the eye.
+</p>
+<p>&#8220;See, Watson!&#8221; said he. &#8220; &#8216;High red house with
+stone facings.&#8217; There is the signal station all right.
+We know the place, and we know the code; so
+surely our task should be simple. There&#8217;s a &#8216;to
+let&#8217; card in that window. It is evidently an empty
+flat to which the confederate has access. Well, Mrs.
+Warren, what now?&#8221;
+</p>
+<p>&#8220;I have it all ready for you. If you will both
+come up and leave your boots below on the land-
+ing, I&#8217;ll put you there now.&#8221;
+</p>
+<p>It was an excellent hiding-place which she had
+arranged. The mirror was so placed that, seated
+in the dark, we could very plainly see the door
+opposite. We had hardly settled down in it, and
+Mrs. Warren left us, when a distant tinkle an-
+nounced that our mysterious neighbour had rung.
+Presently the landlady appeared with the tray, laid
+it down upon a chair beside the closed door, and
+then, treading heavily, departed. Crouching to-
+gether in the angle of the door, we kept our eyes
+fixed upon the mirror. Suddenly, as the landlady&#8217;s
+footsteps died away, there was the creak of a turn-
+ing key, the handle revolved, and two thin hands
+darted out and lifted the tray form the chair. An in-
+stant later it was hurriedly replaced, and I caught a
+glimpse of a dark, beautiful, horrified face glaring
+</p>
+<p>at the narrow opening of the box-room. Then the
+door crashed to, the key turned once more, and
+all was silence. Holmes twitched my sleeve, and
+together we stole down the stair.
+</p>
+<p>&#8220;I will call again in the evening,&#8221; said he to the
+expectant landlady. &#8220;I think, Watson, we can dis-
+cuss this business better in our own quarters.&#8221;
+</p>
+<p>&#8220;My surmise, as you saw, proved to be correct,&#8221;
+said he, speaking from the depths of his easy-chair.
+&#8220;There has been a substitution of lodgers. What I
+did not foresee is that we should find a woman,
+and no ordinary woman, Watson.&#8221;
+</p>
+<p>&#8220;She saw us.&#8221;
+&#8220;Well, she saw something to alarm her. That is
+</p>
+<p>certain. The general sequence of events is pretty
+clear, is it not? A couple seek refuge in London
+from a very terrible and instant danger. The mea-
+sure of that danger is the rigour of their precau-
+tions. The man, who has some work which he
+must do, desires to leave the woman in absolute
+safety while he does it. It is not an easy problem,
+but he solved it in an original fashion, and so effec-
+tively that her presence was not even known to the
+landlady who supplies her with food. The printed
+messages, as is now evident, were to prevent her
+sex being discovered by her writing. The man can-
+not come near the woman, or he will guide their
+enemies to her. Since he cannot communicate with
+her direct, he has recourse to the agony column of
+a paper. So far all is clear.&#8221;
+</p>
+<p>&#8220;But what is at the root of it?&#8221;
+&#8220;Ah, yes, Watson&#8212;severely practical, as usual!
+</p>
+<p>What is at the root of it all? Mrs. Warren&#8217;s whim-
+sical problem enlarges somewhat and assumes a
+more sinister aspect as we proceed. This much
+we can say: that it is no ordinary love escapade.
+You saw the woman&#8217;s face at the sign of danger.
+We have heard, too, of the attack upon the land-
+lord, which was undoubtedly meant for the lodger.
+These alarms, and the desperate need for secrecy,
+argue that the matter is one of life or death. The
+attack upon Mr. Warren further shows that the en-
+emy, whoever they are, are themselves not aware
+of the substitution of the female lodger for the
+male. It is very curious and complex, Watson.&#8221;
+</p>
+<p>&#8220;Why should you go further in it? What have
+you to gain from it?&#8221;
+</p>
+<p>&#8220;What, indeed? It is art for art&#8217;s sake, Watson.
+I suppose when you doctored you found yourself
+studying cases without thought of a fee?&#8221;
+</p>
+<p>&#8220;For my education, Holmes.&#8221;
+&#8220;Education never ends, Watson. It is a series
+</p>
+<p>of lessons with the greatest for the last. This is an
+</p>
+<p>782</p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p>Part Two
+</p>
+<p>instructive case. There is neither money nor credit
+in it, and yet one would wish to tidy it up. When
+dusk comes we should find ourselves one stage
+advanced in our investigation.&#8221;
+</p>
+<p>When we returned to Mrs. Warren&#8217;s rooms, the
+gloom of a London winter evening had thickened
+into one gray curtain, a dead monotone of colour,
+broken only by the sharp yellow squares of the
+windows and the blurred haloes of the gas-lamps.
+As we peered from the darkened sitting-room of
+the lodging-house, one more dim light glimmered
+high up through the obscurity.
+</p>
+<p>&#8220;Someone is moving in that room,&#8221; said
+Holmes in a whisper, his gaunt and eager face
+thrust forward to the window-pane. &#8220;Yes, I can
+see his shadow. There he is again! He has a
+candle in his hand. Now he is peering across.
+He wants to be sure that she is on the lookout.
+Now he begins to flash. Take the message also,
+Watson, that we may check each other. A single
+flash&#8212;that is A, surely. Now, then. How many
+did you make it? Twenty. Do did In. That should
+mean T. AT&#8212;that&#8217;s intelligible enough. Another
+T. Surely this is the beginning of a second word.
+Now, then&#8212;TENTA. Dead stop. That can&#8217;t be all,
+Watson? ATTENTA gives no sense. Nor is it any
+better as three words AT, TEN, TA, unless T. A.
+are a person&#8217;s initials. There it goes again! What&#8217;s
+that? ATTE&#8212;why, it is the same message over
+again. Curious, Watson, very curious. Now he
+is off once more! AT&#8212;why he is repeating it for
+the third time. ATTENTA three times! How often
+will he repeat it? No, that seems to be the finish.
+He has withdrawn form the window. What do you
+make of it, Watson?&#8221;
+</p>
+<p>&#8220;A cipher message, Holmes.&#8221;
+My companion gave a sudden chuckle of com-
+</p>
+<p>prehension. &#8220;And not a very obscure cipher, Wat-
+</p>
+<p>son,&#8221; said he. &#8220;Why, of course, it is Italian! The A
+means that it is addressed to a woman. &#8216;Beware!
+Beware! Beware!&#8217; How&#8217;s that, Watson?
+</p>
+<p>&#8220;I believe you have hit it.&#8221;
+</p>
+<p>&#8220;Not a doubt of it. It is a very urgent message,
+thrice repeated to make it more so. But beware of
+what? Wait a bit, he is coming to the window once
+more.&#8221;
+</p>
+<p>Again we saw the dim silhouette of a crouch-
+ing man and the whisk of the small flame across
+the window as the signals were renewed. They
+came more rapidly than before&#8212;so rapid that it
+was hard to follow them.
+</p>
+<p>&#8220;PERICOLO&#8212;pericolo&#8212

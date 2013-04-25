@@ -1,0 +1,427 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html><head><title>CHAPTERIII.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body>
+<div style="page-break-before:always; page-break-after:always"><div><p>The Hound of the Baskervilles
+</p>
+<p>go out upon the moor at night. Incredible as it
+may appear to you, Mr. Holmes, he was honestly
+convinced that a dreadful fate overhung his fam-
+ily, and certainly the records which he was able to
+give of his ancestors were not encouraging. The
+idea of some ghastly presence constantly haunted
+him, and on more than one occasion he has asked
+me whether I had on my medical journeys at night
+ever seen any strange creature or heard the baying
+of a hound. The latter question he put to me sev-
+eral times, and always with a voice which vibrated
+with excitement.
+</p>
+<p>&#8220;I can well remember driving up to his house
+in the evening some three weeks before the fatal
+event. He chanced to be at his hall door. I had
+descended from my gig and was standing in front
+of him, when I saw his eyes fix themselves over
+my shoulder, and stare past me with an expres-
+sion of the most dreadful horror. I whisked round
+and had just time to catch a glimpse of something
+which I took to be a large black calf passing at the
+head of the drive. So excited and alarmed was he
+that I was compelled to go down to the spot where
+the animal had been and look around for it. It was
+gone, however, and the incident appeared to make
+the worst impression upon his mind. I stayed with
+him all the evening, and it was on that occasion,
+to explain the emotion which he had shown, that
+he confided to my keeping that narrative which
+I read to you when first I came. I mention this
+small episode because it assumes some importance
+in view of the tragedy which followed, but I was
+convinced at the time that the matter was entirely
+trivial and that his excitement had no justification.
+</p>
+<p>&#8220;It was at my advice that Sir Charles was about
+to go to London. His heart was, I knew, affected,
+and the constant anxiety in which he lived, how-
+ever chimerical the cause of it might be, was ev-
+</p>
+<p>idently having a serious effect upon his health. I
+thought that a few months among the distractions
+of town would send him back a new man. Mr. Sta-
+pleton, a mutual friend who was much concerned
+at his state of health, was of the same opinion. At
+the last instant came this terrible catastrophe.
+</p>
+<p>&#8220;On the night of Sir Charles&#8217;s death Barrymore
+the butler, who made the discovery, sent Perkins
+the groom on horseback to me, and as I was sitting
+up late I was able to reach Baskerville Hall within
+an hour of the event. I checked and corroborated
+all the facts which were mentioned at the inquest.
+I followed the footsteps down the Yew Alley, I saw
+the spot at the moor-gate where he seemed to have
+waited, I remarked the change in the shape of the
+prints after that point, I noted that there were no
+other footsteps save those of Barrymore on the soft
+gravel, and finally I carefully examined the body,
+which had not been touched until my arrival. Sir
+Charles lay on his face, his arms out, his fingers
+dug into the ground, and his features convulsed
+with some strong emotion to such an extent that I
+could hardly have sworn to his identity. There was
+certainly no physical injury of any kind. But one
+false statement was made by Barrymore at the in-
+quest. He said that there were no traces upon the
+ground round the body. He did not observe any.
+But I did&#8212;some little distance off, but fresh and
+clear.&#8221;
+</p>
+<p>&#8220;Footprints?&#8221;
+&#8220;Footprints.&#8221;
+&#8220;A man&#8217;s or a woman&#8217;s?&#8221;
+Dr. Mortimer looked strangely at us for an in-
+</p>
+<p>stant, and his voice sank almost to a whisper as he
+answered:&#8212;
+</p>
+<p>&#8220;Mr. Holmes, they were the footprints of a gi-
+gantic hound!&#8221;
+</p>
+<p>CHAPTER III.
+The Problem
+</p>
+<p>I confess at these words a shudder passed
+through me. There was a thrill in the doctor&#8217;s
+voice which showed that he was himself deeply
+moved by that which he told us. Holmes leaned
+forward in his excitement and his eyes had the
+</p>
+<p>hard, dry glitter which shot from them when he
+was keenly interested.
+</p>
+<p>&#8220;You saw this?&#8221;
+&#8220;As clearly as I see you.&#8221;
+&#8220;And you said nothing?&#8221;
+</p>
+<p>596</p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p>The Problem
+</p>
+<p>&#8220;What was the use?&#8221;
+&#8220;How was it that no one else saw it?&#8221;
+&#8220;The marks were some twenty yards from the
+</p>
+<p>body and no one gave them a thought. I don&#8217;t sup-
+pose I should have done so had I not known this
+legend.&#8221;
+</p>
+<p>&#8220;There are many sheep-dogs on the moor?&#8221;
+&#8220;No doubt, but this was no sheep-dog.&#8221;
+&#8220;You say it was large?&#8221;
+&#8220;Enormous.&#8221;
+&#8220;But it had not approached the body?&#8221;
+&#8220;No.&#8220;
+&#8220;What sort of night was it?&#8221;
+&#8220;Damp and raw.&#8221;
+&#8220;But not actually raining?&#8221;
+&#8220;No.&#8221;
+&#8220;What is the Alley like?&#8221;
+&#8220;There are two lines of old yew hedge, twelve
+</p>
+<p>feet high and impenetrable. The walk in the centre
+is about eight feet across.&#8221;
+</p>
+<p>&#8220;Is there anything between the hedges and the
+walk?&#8221;
+</p>
+<p>&#8220;Yes, there is a strip of grass about six feet
+broad on either side.&#8221;
+</p>
+<p>&#8220;I understand that the yew hedge is penetrated
+at one point by a gate?&#8221;
+</p>
+<p>&#8220;Yes, the wicket-gate which leads on to the
+moor.&#8221;
+</p>
+<p>&#8220;Is there any other opening?&#8221;
+&#8220;None.&#8221;
+&#8220;So that to reach the Yew Alley one either has
+</p>
+<p>to come down it from the house or else to enter it
+by the moor-gate?&#8221;
+</p>
+<p>&#8220;There is an exit through a summer-house at
+the far end.&#8221;
+</p>
+<p>&#8220;Had Sir Charles reached this?&#8221;
+&#8220;No; he lay about fifty yards from it.&#8221;
+&#8220;Now, tell me, Dr. Mortimer&#8212;and this is im-
+</p>
+<p>portant&#8212;the marks which you saw were on the
+path and not on the grass?&#8221;
+</p>
+<p>&#8220;No marks could show on the grass.&#8221;
+&#8220;Were they on the same side of the path as the
+</p>
+<p>moor-gate?&#8221;
+&#8220;Yes; they were on the edge of the path on the
+</p>
+<p>same side as the moor-gate.&#8221;
+&#8220;You interest me exceedingly. Another point.
+</p>
+<p>Was the wicket-gate closed?&#8221;
+&#8220;Closed and padlocked.&#8221;
+</p>
+<p>&#8220;How high was it?&#8221;
+&#8220;About four feet high.&#8221;
+&#8220;Then anyone could have got over it?&#8221;
+&#8220;Yes.&#8221;
+&#8220;And what marks did you see by the wicket-
+</p>
+<p>gate?&#8221;
+&#8220;None in particular.&#8221;
+&#8220;Good heaven! Did no one examine?&#8221;
+&#8220;Yes, I examined myself.&#8221;
+&#8220;And found nothing?&#8221;
+&#8220;It was all very confused. Sir Charles had evi-
+</p>
+<p>dently stood there for five or ten minutes.&#8221;
+&#8220;How do you know that?&#8221;
+&#8220;Because the ash had twice dropped from his
+</p>
+<p>cigar.&#8221;
+&#8220;Excellent! This is a colleague, Watson, after
+</p>
+<p>our own heart. But the marks?&#8221;
+&#8220;He had left his own marks all over that small
+</p>
+<p>patch of gravel. I could discern no others.&#8221;
+Sherlock Holmes struck his hand against his
+</p>
+<p>knee with an impatient gesture.
+&#8220;If I had only been there!&#8221; he cried. &#8220;It is ev-
+</p>
+<p>idently a case of extraordinary interest, and one
+which presented immense opportunities to the sci-
+entific expert. That gravel page upon which I
+might have read so much has been long ere this
+smudged by the rain and defaced by the clogs of
+curious peasants. Oh, Dr. Mortimer, Dr. Mortimer,
+to think that you should not have called me in! You
+have indeed much to answer for.&#8221;
+</p>
+<p>&#8220;I could not call you in, Mr. Holmes, without
+disclosing these facts to the world, and I have al-
+ready given my reasons for not wishing to do so.
+Besides, besides&#8212;&#8221;
+</p>
+<p>&#8220;Why do you hesitate?&#8221;
+&#8220;There is a realm in which the most acute and
+</p>
+<p>most experienced of detectives is helpless.&#8221;
+&#8220;You mean that the thing is supernatural?&#8221;
+&#8220;I did not positively say so.&#8221;
+&#8220;No, but you evidently think it.&#8221;
+&#8220;Since the tragedy, Mr. Holmes, there have
+</p>
+<p>come to my ears several incidents which are hard
+to reconcile with the settled order of Nature.&#8221;
+</p>
+<p>&#8220;For example?&#8221;
+&#8220;I find that before the terrible event occurred
+</p>
+<p>several people had seen a creature upon the moor
+which corresponds with this Baskerville demon,
+and which could not possibly be any animal
+known to science. They all agreed that it was
+a huge creature, luminous, ghastly, and spectral.
+</p>
+<p>597</p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p>The Hound of the Baskervilles
+</p>
+<p>I have cross-examined these men, one of them a
+hard-headed countryman, one a farrier, and one a
+moorland farmer, who all tell the same story of this
+dreadful apparition, exactly corresponding to the
+hell-hound of the legend. I assure you that there
+is a reign of terror in the district, and that it is a
+hardy man who will cross the moor at night.&#8221;
+</p>
+<p>&#8220;And you, a trained man of science, believe it
+to be supernatural?&#8221;
+</p>
+<p>&#8220;I do not know what to believe.&#8221;
+Holmes shrugged his shoulders.
+&#8220;I have hitherto confined my investigations to
+</p>
+<p>this world,&#8221; said he. &#8220;In a modest way I have com-
+bated evil, but to take on the Father of Evil himself
+would, perhaps, be too ambitious a task. Yet you
+must admit that the footmark is material.&#8221;
+</p>
+<p>&#8220;The original hound was material enough to
+tug a man&#8217;s throat out, and yet he was diabolical
+as well.&#8221;
+</p>
+<p>&#8220;I see that you have quite gone over to the su-
+pernaturalists. But now, Dr. Mortimer, tell me this.
+If you hold these views, why have you come to
+consult me at all? You tell me in the same breath
+that it is useless to investigate Sir Charles&#8217;s death,
+and that you desire me to do it.&#8221;
+</p>
+<p>&#8220;I did not say that I desired you to do it.&#8221;
+&#8220;Then, how can I assist you?&#8221;
+&#8220;By advising me as to what I should do with
+</p>
+<p>Sir Henry Baskerville, who arrives at Waterloo Sta-
+tion&#8221;&#8212;Dr. Mortimer looked at his watch&#8212;&#8220;in ex-
+actly one hour and a quarter.&#8221;
+</p>
+<p>&#8220;He being the heir?&#8221;
+&#8220;Yes. On the death of Sir Charles we inquired
+</p>
+<p>for this young gentleman and found that he had
+been farming in Canada. From the accounts which
+have reached us he is an excellent fellow in every
+way. I speak not as a medical man but as a trustee
+and executor of Sir Charles&#8217;s will.&#8221;
+</p>
+<p>&#8220;There is no other claimant, I presume?&#8221;
+&#8220;None. The only other kinsman whom we
+</p>
+<p>have been able to trace was Rodger Baskerville,
+the youngest of three brothers of whom poor Sir
+Charles was the elder. The second brother, who
+died young, is the father of this lad Henry. The
+third, Rodger, was the black sheep of the family.
+He came of the old masterful Baskerville strain,
+and was the very image, they tell me, of the family
+picture of old Hugo. He made England too hot to
+hold him, fled to Central America, and died there
+in 1876 of yellow fever. Henry is the last of the
+Baskervilles. In one hour and five minutes I meet
+him at Waterloo Station. I have had a wire that he
+</p>
+<p>arrived at Southampton this morning. Now, Mr.
+Holmes, what would you advise me to do with
+him?&#8221;
+</p>
+<p>&#8220;Why should he not go to the home of his fa-
+thers?&#8221;
+</p>
+<p>&#8220;It seems natural, does it not? And yet, con-
+sider that every Baskerville who goes there meets
+with an evil fate. I feel sure that if Sir Charles
+could have spoken with me before his death he
+would have warned me against bringing this, the
+last of the old race, and the heir to great wealth,
+to that deadly place. And yet it cannot be de-
+nied that the prosperity of the whole poor, bleak
+country-side depends upon his presence. All the
+good work which has been done by Sir Charles
+will crash to the ground if there is no tenant of the
+Hall. I fear lest I should be swayed too much by
+my own obvious interest in the matter, and that is
+why I bring the case before you and ask for your
+advice.&#8221;
+</p>
+<p>Holmes considered for a little time.
+&#8220;Put into plain words, the matter is this,&#8221; said
+</p>
+<p>he. &#8220;In your opinion there is a diabolical agency
+which makes Dartmoor an unsafe abode for a
+Baskerville&#8212;that is your opinion?&#8221;
+</p>
+<p>&#8220;At least I might go the length of saying that
+there is some evidence that this may be so.&#8221;
+</p>
+<p>&#8220;Exactly. But surely, if your supernatural the-
+ory be correct, it could work the young man evil
+in London as easily as in Devonshire. A devil with
+merely local powers like a parish vestry would be
+too inconceivable a thing.&#8221;
+</p>
+<p>&#8220;You put the matter more flippantly, Mr.
+Holmes, than you would probably do if you were
+brought into personal contact with these things.
+Your advice, then, as I understand it, is that the
+young man will be as safe in Devonshire as in Lon-
+don. He comes in fifty minutes. What would you
+recommend?&#8221;
+</p>
+<p>&#8220;I recommend, sir, that you take a cab, call
+off your spaniel who is scratching at my front
+door, and proceed to Waterloo to meet Sir Henry
+Baskerville.&#8221;
+</p>
+<p>&#8220;And then?&#8221;
+&#8220;And then you will say nothing to him at all
+</p>
+<p>until I have made up my mind about the matter.&#8221;
+&#8220;How long will it take you to make up your
+</p>
+<p>mind?&#8221;
+&#8220;Twenty-four hours. At ten o&#8217;clock to-morrow,
+</p>
+<p>Dr. Mortimer, I will be much obliged to you if you
+will call upon me here, and it will be of help to
+me in my plans for the future if you will bring Sir
+Henry Baskerville with you.&#8221;
+</p>
+<p>598</p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p>The Problem
+</p>
+<p>&#8220;I will do so, Mr. Holmes.&#8221; He scribbled the
+appointment on his shirtcuff and hurried off in his
+strange, peering, absent-minded fashion. Holmes
+stopped him at the head of the stair.
+</p>
+<p>&#8220;Only one more question, Dr. Mortimer. You
+say that before Sir Charles Baskerville&#8217;s death sev-
+eral people saw this apparition upon the moor?&#8221;
+</p>
+<p>&#8220;Three people did.&#8221;
+</p>
+<p>&#8220;Did any see it after?&#8221;
+</p>
+<p>&#8220;I have not heard of any.&#8221;
+</p>
+<p>&#8220;Thank you. Good morning.&#8221;
+</p>
+<p>Holmes returned to his seat with that quiet
+look of inward satisfaction which meant that he
+had a congenial task before him.
+</p>
+<p>&#8220;Going out, Watson?&#8221;
+</p>
+<p>&#8220;Unless I can help you.&#8221;
+</p>
+<p>&#8220;No, my dear fellow, it is at the hour of action
+that I turn to you for aid. But this is splendid, re-
+ally unique from some points of view. When you
+pass Bradley&#8217;s, would you ask him to send up a
+pound of the strongest shag tobacco? Thank you.
+It would be as well if you could make it convenient
+not to return before evening. Then I should be
+very glad to compare impressions as to this most
+interesting problem which has been submitted to
+us this morning.&#8221;
+</p>
+<p>I knew that seclusion and solitude were very
+necessary for my friend in those hours of intense
+mental concentration during which he weighed
+every particle of evidence, constructed alternative
+theories, balanced one against the other, and made
+up his mind as to which points were essential and
+which immaterial. I therefore spent the day at
+my club and did not return to Baker Street until
+evening. It was nearly nine o&#8217;clock when I found
+myself in 

@@ -1,0 +1,882 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html><head><title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body>
+<div style="page-break-before:always; page-break-after:always"><div><p>The Adventure Of The Mazarin Stone</p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div>
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p>I</p>
+<p>t was pleasant to Dr. Watson to find
+himself once more in the untidy room
+of the first floor in Baker Street which
+had been the starting-point of so many
+</p>
+<p>remarkable adventures. He looked round him at
+the scientific charts upon the wall, the acid-charred
+bench of chemicals, the violin-case leaning in the
+corner, the coal-scuttle, which contained of old the
+pipes and tobacco. Finally, his eyes came round
+to the fresh and smiling face of Billy, the young
+but very wise and tactful page, who had helped a
+little to fill up the gap of loneliness and isolation
+which surrounded the saturnine figure of the great
+detective.
+</p>
+<p>&#8220;It all seems very unchanged, Billy. You don&#8217;t
+change, either. I hope the same can be said of
+him?&#8221;
+</p>
+<p>Billy glanced with some solicitude at the closed
+door of the bedroom.
+</p>
+<p>&#8220;I think he&#8217;s in bed and asleep,&#8221; he said.
+</p>
+<p>It was seven in the evening of a lovely sum-
+mer&#8217;s day, but Dr. Watson was sufficiently familiar
+with the irregularity of his old friend&#8217;s hours to
+feel no surprise at the idea.
+</p>
+<p>&#8220;That means a case, I suppose?&#8221;
+</p>
+<p>&#8220;Yes, sir, he is very hard at it just now. I&#8217;m
+frightened for his health. He gets paler and thin-
+ner, and he eats nothing. &#8216;When will you be
+pleased to dine, Mr. Holmes?&#8217; Mrs. Hudson asked.
+&#8216;Seven-thirty, the day after to-morrow,&#8217; said he.
+You know his way when he is keen on a case.&#8221;
+</p>
+<p>&#8220;Yes, Billy, I know.&#8221;
+</p>
+<p>&#8220;He&#8217;s following someone. Yesterday he was
+out as a workman looking for a job. To-day he
+was an old woman. Fairly took me in, he did, and
+I ought to know his ways by now.&#8221; Billy pointed
+with a grin to a very baggy parasol which leaned
+against the sofa. &#8220;That&#8217;s part of the old woman&#8217;s
+outfit,&#8221; he said.
+</p>
+<p>&#8220;But what is it all about, Billy?&#8221;
+</p>
+<p>Billy sank his voice, as one who discusses great
+secrets of State. &#8220;I don&#8217;t mind telling you, sir, but
+it should go no farther. It&#8217;s this case of the Crown
+diamond.&#8221;
+</p>
+<p>&#8220;What&#8212;the hundred-thousand-pound bur-
+glary?&#8221;
+</p>
+<p>&#8220;Yes, sir. They must get it back, sir. Why, we
+had the Prime Minister and the Home Secretary
+both sitting on that very sofa. Mr. Holmes was
+very nice to them. He soon put them at their ease
+and promised he would do all he could. Then
+there is Lord Cantlemere&#8212;&#8221;
+</p>
+<p>&#8220;Ah!&#8221;
+&#8220;Yes, sir, you know what that means. He&#8217;s a
+</p>
+<p>stiff &#8217;un, sir, if I may say so. I can get along with
+the Prime Minister, and I&#8217;ve nothing against the
+Home Secretary, who seemed a civil, obliging sort
+of man, but I can&#8217;t stand his Lordship. Neither can
+Mr. Holmes, sir. You see, he don&#8217;t believe in Mr.
+Holmes and he was against employing him. He&#8217;d
+rather he failed.&#8221;
+</p>
+<p>&#8220;And Mr. Holmes knows it?&#8221;
+&#8220;Mr. Holmes always knows whatever there is
+</p>
+<p>to know.&#8221;
+&#8220;Well, we&#8217;ll hope he won&#8217;t fail and that Lord
+</p>
+<p>Cantlemere will be confounded. But I say, Billy,
+what is that curtain for across the window?&#8221;
+</p>
+<p>&#8220;Mr. Holmes had it put up there three days
+ago. We&#8217;ve got something funny behind it.&#8221;
+</p>
+<p>Billy advanced and drew away the drapery
+which screened the alcove of the bow window.
+</p>
+<p>Dr. Watson could not restrain a cry of amaze-
+ment. There was a facsimile of his old friend,
+dressing-gown and all, the face turned three-
+quarters towards the window and downward, as
+though reading an invisible book, while the body
+was sunk deep in an armchair. Billy detached the
+head and held it in the air.
+</p>
+<p>&#8220;We put it at different angles, so that it may
+seem more lifelike. I wouldn&#8217;t dare touch it if the
+blind were not down. But when it&#8217;s up you can see
+this from across the way.&#8221;
+</p>
+<p>&#8220;We used something of the sort once before.&#8221;
+&#8220;Before my time,&#8221; said Billy. He drew the win-
+</p>
+<p>dow curtains apart and looked out into the street.
+&#8220;There are folk who watch us from over yonder. I
+can see a fellow now at the window. Have a look
+for yourself.&#8221;
+</p>
+<p>Watson had taken a step forward when the
+bedroom door opened, and the long, thin form of
+Holmes emerged, his face pale and drawn, but his
+step and bearing as active as ever. With a single
+spring he was at the window, and had drawn the
+blind once more.
+</p>
+<p>&#8220;That will do, Billy,&#8221; said he. &#8220;You were in dan-
+ger of your life then, my boy, and I can&#8217;t do with-
+out you just yet. Well, Watson, it is good to see
+you in your old quarters once again. You come at
+a critical moment.&#8221;
+</p>
+<p>&#8220;So I gather.&#8221;
+&#8220;You can go, Billy. That boy is a problem, Wat-
+</p>
+<p>son. How far am I justified in allowing him to be
+in danger?&#8221;
+</p>
+<p>&#8220;Danger of what, Holmes?&#8221;
+</p>
+<p>883</p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p>The Adventure Of The Mazarin Stone
+</p>
+<p>&#8220;Of sudden death. I&#8217;m expecting something
+this evening.&#8221;
+</p>
+<p>&#8220;Expecting what?&#8221;
+&#8220;To be murdered, Watson.&#8221;
+&#8220;No, no, you are joking, Holmes!&#8221;
+&#8220;Even my limited sense of humour could
+</p>
+<p>evolve a better joke than that. But we may be com-
+fortable in the meantime, may we not? Is alcohol
+permitted? The gasogene and cigars are in the old
+place. Let me see you once more in the customary
+armchair. You have not, I hope, learned to despise
+my pipe and my lamentable tobacco? It has to take
+the place of food these days.&#8221;
+</p>
+<p>&#8220;But why not eat?&#8221;
+&#8220;Because the faculties become refined when
+</p>
+<p>you starve them. Why, surely, as a doctor, my dear
+Watson, you must admit that what your digestion
+gains in the way of blood supply is so much lost to
+the brain. I am a brain, Watson. The rest of me is
+a mere appendix. Therefore, it is the brain I must
+consider.&#8221;
+</p>
+<p>&#8220;But this danger, Holmes?&#8221;
+&#8220;Ah, yes, in case it should come off, it would
+</p>
+<p>perhaps be as well that you should burden your
+memory with the name and address of the mur-
+derer. You can give it to Scotland Yard, with
+my love and a parting blessing. Sylvius is the
+name&#8212;Count Negretto Sylvius. Write it down,
+man, write it down! 136 Moorside Gardens, N.
+W. Got it?&#8221;
+</p>
+<p>Watson&#8217;s honest face was twitching with anx-
+iety. He knew only too well the immense risks
+taken by Holmes and was well aware that what he
+said was more likely to be under-statement than
+exaggeration. Watson was always the man of ac-
+tion, and he rose to the occasion.
+</p>
+<p>&#8220;Count me in, Holmes. I have nothing to do
+for a day or two.&#8221;
+</p>
+<p>&#8220;Your morals don&#8217;t improve, Watson. You have
+added fibbing to your other vices. You bear every
+sign of the busy medical man, with calls on him
+every hour.&#8221;
+</p>
+<p>&#8220;Not such important ones. But can&#8217;t you have
+this fellow arrested?&#8221;
+</p>
+<p>&#8220;Yes, Watson, I could. That&#8217;s what worries him
+so.&#8221;
+</p>
+<p>&#8220;But why don&#8217;t you?&#8221;
+&#8220;Because I don&#8217;t know where the diamond is.&#8221;
+&#8220;Ah! Billy told me&#8212;the missing Crown jewel!&#8221;
+&#8220;Yes, the great yellow Mazarin stone. I&#8217;ve cast
+</p>
+<p>my net and I have my fish. But I have not got the
+</p>
+<p>stone. What is the use of taking them? We can
+make the world a better place by laying them by
+the heels. But that is not what I am out for. It&#8217;s the
+stone I want.&#8221;
+</p>
+<p>&#8220;And is this Count Sylvius one of your fish?&#8221;
+</p>
+<p>&#8220;Yes, and he&#8217;s a shark. He bites. The other is
+Sam Merton, the boxer. Not a bad fellow, Sam, but
+the Count has used him. Sam&#8217;s not a shark. He
+is a great big silly bull-headed gudgeon. But he is
+flopping about in my net all the same.&#8221;
+</p>
+<p>&#8220;Where is this Count Sylvius?&#8221;
+</p>
+<p>&#8220;I&#8217;ve been at his very elbow all the morning.
+You&#8217;ve seen me as an old lady, Watson. I was never
+more convincing. He actually picked up my para-
+sol for me once. &#8216;By your leave, madame,&#8217; said
+he&#8212;half-Italian, you know, and with the Southern
+graces of manner when in the mood, but a devil
+incarnate in the other mood. Life is full of whim-
+sical happenings, Watson.&#8221;
+</p>
+<p>&#8220;It might have been tragedy.&#8221;
+</p>
+<p>&#8220;Well, perhaps it might. I followed him
+to old Straubenzee&#8217;s workshop in the Minories.
+Straubenzee made the air-gun&#8212;a very pretty bit
+of work, as I understand, and I rather fancy it is in
+the opposite window at the present moment. Have
+you seen the dummy? Of course, Billy showed it to
+you. Well, it may get a bullet through its beautiful
+head at any moment. Ah, Billy, what is it?&#8221;
+</p>
+<p>The boy had reappeared in the room with a
+card upon a tray. Holmes glanced at it with raised
+eyebrows and an amused smile.
+</p>
+<p>&#8220;The man himself. I had hardly expected this.
+Grasp the nettle, Watson! A man of nerve. Possi-
+bly you have heard of his reputation as a shooter
+of big game. It would indeed be a triumphant end-
+ing to his excellent sporting record if he added me
+to his bag. This is a proof that he feels my toe very
+close behind his heel.&#8221;
+</p>
+<p>&#8220;Send for the police.&#8221;
+</p>
+<p>&#8220;I probably shall. But not just yet. Would you
+glance carefully out of the window, Watson, and
+see if anyone is hanging about in the street?&#8221;
+</p>
+<p>Watson looked warily round the edge of the
+curtain.
+</p>
+<p>&#8220;Yes, there is one rough fellow near the door.&#8221;
+</p>
+<p>&#8220;That will be Sam Merton&#8212;the faithful but
+rather fatuous Sam. Where is this gentleman,
+Billy?&#8221;
+</p>
+<p>&#8220;In the waiting-room, sir.&#8221;
+</p>
+<p>&#8220;Show him up when I ring.&#8221;
+</p>
+<p>&#8220;Yes, sir.&#8221;
+</p>
+<p>884</p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p>&#8220;If I am not in the room, show him in all the
+same.&#8221;
+</p>
+<p>&#8220;Yes, sir.&#8221;
+</p>
+<p>Watson waited until the door was closed, and
+then he turned earnestly to his companion.
+</p>
+<p>&#8220;Look here, Holmes, this is simply impossible.
+This is a desperate man, who sticks at nothing. He
+may have come to murder you.&#8221;
+</p>
+<p>&#8220;I should not be surprised.&#8221;
+</p>
+<p>&#8220;I insist upon staying with you.&#8221;
+</p>
+<p>&#8220;You would be horribly in the way.&#8221;
+</p>
+<p>&#8220;In his way?&#8221;
+</p>
+<p>&#8220;No, my dear fellow&#8212;in my way.&#8221;
+</p>
+<p>&#8220;Well, I can&#8217;t possibly leave you.&#8221;
+</p>
+<p>&#8220;Yes, you can, Watson. And you will, for you
+have never failed to play the game. I am sure
+you will play it to the end. This man has come
+for his own purpose, but he may stay for mine.&#8221;
+Holmes took out his notebook and scribbled a few
+lines. &#8220;Take a cab to Scotland Yard and give this to
+Youghal of the C. I. D. Come back with the police.
+The fellow&#8217;s arrest will follow.&#8221;
+</p>
+<p>&#8220;I&#8217;ll do that with joy.&#8221;
+</p>
+<p>&#8220;Before you return I may have just time enough
+to find out where the stone is.&#8221; He touched the
+bell. &#8220;I think we will go out through the bedroom.
+This second exit is exceedingly useful. I rather
+want to see my shark without his seeing me, and I
+have, as you will remember, my own way of doing
+it.&#8221;
+</p>
+<p>It was, therefore, an empty room into which
+Billy, a minute later, ushered Count Sylvius.
+The famous game-shot, sportsman, and man-
+about-town was a big, swarthy fellow, with a
+formidable dark moustache shading a cruel, thin-
+lipped mouth, and surmounted by a long, curved
+nose like the beak of an eagle. He was well
+dressed, but his brilliant necktie, shining pin, and
+glittering rings were flamboyant in their effect. As
+the door closed behind him he looked round him
+with fierce, startled eyes, like one who suspects a
+trap at every turn. Then he gave a violent start
+as he saw the impassive head and the collar of
+the dressing-gown which projected above the arm-
+chair in the window. At first his expression was
+one of pure amazement. Then the light of a horri-
+ble hope gleamed in his dark, murderous eyes. He
+took one more glance round to see that there were
+no witnesses, and then, on tiptoe, his thick stick
+half raised, he approached the silent figure. He
+was crouching for his final spring and blow when
+</p>
+<p>a cool, sardonic voice greeted him from the open
+bedroom door:
+</p>
+<p>&#8220;Don&#8217;t break it, Count! Don&#8217;t break it!&#8221;
+The assassin staggered back, amazement in his
+</p>
+<p>convulsed face. For an instant he half raised his
+loaded cane once more, as if he would turn his
+violence from the effigy to the original; but there
+was something in that steady gray eye and mock-
+ing smile which caused his hand to sink to his side.
+</p>
+<p>&#8220;It&#8217;s a pretty little thing,&#8221; said Holmes, ad-
+vancing towards the image. &#8220;Tavernier, the French
+modeller, made it. He is as good at waxworks as
+your friend Straubenzee is at air-guns.&#8221;
+</p>
+<p>&#8220;Air-guns, sir! What do you mean?&#8221;
+&#8220;Put your hat and stick on the side-table.
+</p>
+<p>Thank you! Pray take a seat. Would you care to
+put your revolver out also? Oh, very good, if you
+prefer to sit upon it. Your visit is really most op-
+portune, for I wanted badly to have a few minutes&#8217;
+chat with you.&#8221;
+</p>
+<p>The Count scowled, with heavy, threatening
+eyebrows.
+</p>
+<p>&#8220;I, too, wished to have some words with you,
+Holmes. That is why I am here. I won&#8217;t deny that
+I intended to assault you just now.&#8221;
+</p>
+<p>Holmes swung his leg on the edge of the table.
+&#8220;I rather gathered that you had some idea of
+</p>
+<p>the sort in your head,&#8221; said he. &#8220;But why these
+personal attentions?&#8221;
+</p>
+<p>&#8220;Because you have gone out of your way to an-
+noy me. Because you have put your creatures upon
+my track.&#8221;
+</p>
+<p>&#8220;My creatures! I assure you no!&#8221;
+&#8220;Nonsense! I have had them followed. Two can
+</p>
+<p>play at that game, Holmes.&#8221;
+&#8220;It is a small point, Count Sylvius, but perhaps
+</p>
+<p>you would kindly give me my prefix when you
+address me. You can understand that, with my
+routine of work, I should find myself on familiar
+terms with half the rogues&#8217; gallery, and you will
+agree that exceptions are invidious.&#8221;
+</p>
+<p>&#8220;Well, Mr. Holmes, then.&#8221;
+&#8220;Excellent! But I assure you you are mistaken
+</p>
+<p>about my alleged agents.&#8221;
+Count Sylvius laughed contemptuously.
+&#8220;Other people can observe as well as you. Yes-
+</p>
+<p>terday there was an old sporting man. To-day it
+was an elderly woman. They held me in view all
+day.&#8221;
+</p>
+<p>&#8220;Really, sir, you compliment me. Old Baron
+Dowson said the night before he was hanged that
+in my case what the law had gained the stage had
+</p>
+<p>885</p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p>The Adventure Of The Mazarin Stone
+</p>
+<p>lost. And now you give my little impersonations
+your kindly praise?&#8221;
+</p>
+<p>&#8220;It was you&#8212;you yourself?&#8221;
+Holmes shrugged his shoulders. &#8220;You can see
+</p>
+<p>in the corner the parasol which you so politely
+handed to me in the Minories before you began
+to suspect.&#8221;
+</p>
+<p>&#8220;If I had known, you might never&#8212;&#8221;
+&#8220;Have seen this humble home again. I was well
+</p>
+<p>aware of it. We all have neglected opportunities to
+deplore. As it happens, you did not know, so here
+we are!&#8221;
+</p>
+<p>The Count&#8217;s knotted brows gathered more
+heavily over his menacing eyes. &#8220;What you say
+only makes the matter worse. It was not your
+agents but your play-acting, busybody self! You
+admit that you have dogged me. Why?&#8221;
+</p>
+<p>&#8220;Come now, Count. You used to shoot lions in
+Algeria.&#8221;
+</p>
+<p>&#8220;Well?&#8221;
+&#8220;But why?&#8221;
+&#8220;Why? The sport&#8212;the excitement&#8212;the dan-
+</p>
+<p>ger!&#8221;
+&#8220;And, no doubt, to free the country from a
+</p>
+<p>pest?&#8221;
+&#8220;Exactly!&#8221;
+&#8220;My reasons in a nutshell!&#8221;
+The Count sprang to his feet, and his hand in-
+</p>
+<p>voluntarily moved back to his hip-pocket.
+&#8220;Sit down, sir, sit down! There was another,
+</p>
+<p>more practical, reason. I want that yellow dia-
+mond!&#8221;
+</p>
+<p>Count Sylvius lay back in his chair with an evil
+smile.
+</p>
+<p>&#8220;Upon my word!&#8221; said he.
+&#8220;You knew that I was after you for that. The
+</p>
+<p>real reason why you are here to-night is to find out
+how much I know about the matter and how far
+my removal is absolutely essential. Well, I should
+say that, from your point of view, it is absolutely
+essential, for I know all about it, save only one
+thing, which you are about to tell me.&#8221;
+</p>
+<p>&#8220;Oh, indeed! And pray, what is this missing
+fact?&#8221;
+</p>
+<p>&#8220;Where the Crown diamond now is.&#8221;
+The Count looked sharply at his companion.
+</p>
+<p>&#8220;Oh, you want to know that, do you? How the
+devil should I be able to tell you where it is?&#8221;
+</p>
+<p>&#8220;You can, and you will.&#8221;
+&#8220;Indeed!&#8221;
+</p>
+<p>&#8220;You can&#8217;t bluff me, Count Sylvius.&#8221; Holmes&#8217;s
+eyes, as he gazed at him, contracted and lightened
+until they were like two menacing points of steel.
+&#8220;You are absolute plate-glass. I see to the very back
+of your mind.&#8221;
+</p>
+<p>&#8220;Then, of course, you see where the diamond
+is!&#8221;
+</p>
+<p>Holmes clapped his hands with amusement,
+and then pointed a derisive finger. &#8220;Then you do
+know. You have admitted it!&#8221;
+</p>
+<p>&#8220;I admit nothing.&#8221;
+&#8220;Now, Count, if you will be reasonable we can
+</p>
+<p>do business. If not, you will get hurt.&#8221;
+Count Sylvius threw up his eyes to the ceiling.
+</p>
+<p>&#8220;And you talk about bluff!&#8221; said he.
+Holmes looked at him thoughtfully like a mas-
+</p>
+<p>ter chess-player who meditates his crowning move.
+Then he threw open the table drawer and drew out
+a squat notebook.
+</p>
+<p>&#8220;Do you know what I keep in this book?&#8221;
+&#8220;No, sir, I do not!&#8221;
+&#8220;You!&#8221;
+&#8220;Me!&#8221;
+&#8220;Yes, sir, you! You are all here&#8212;every action of
+</p>
+<p>your vile and dangerous life.&#8221;
+&#8220;Damn you, Holmes!&#8221; cried the Count with
+</p>
+<p>blazing eyes. &#8220;There are limits to my patience!&#8221;
+&#8220;It&#8217;s all here, Count. The real facts as to the
+</p>
+<p>death of old Mrs. Harold, who left you the Blymer
+estate, which you so rapidly gambled away.&#8221;
+</p>
+<p>&#8220;You are dreaming!&#8221;
+&#8220;And the complete life history of Miss Minnie
+</p>
+<p>Warrender.&#8221;
+&#8220;Tut! You will make nothing of that!&#8221;
+&#8220;Plenty more here, Count. Here is the robbery
+</p>
+<p>in the train de-luxe to the Riviera on February 13,
+1892. Here is the forged check in the same year on
+the Credit Lyonnais.&#8221;
+</p>
+<p>&#8220;No; you&#8217;re wrong there.&#8221;
+&#8220;Then I am right on the others! Now, Count,
+</p>
+<p>you are a card-player. When the other fellow has
+all the trumps, it saves time to throw down your
+hand.&#8221;
+</p>
+<p>&#8220;What has all this talk to do with the jewel of
+which you spoke?&#8221;
+</p>
+<p>&#8220;Gently, Count. Restrain that eager mind! Let
+me get to the points in my own humdrum fashion.
+I have all this against you; but, above all, I have a
+clear case against both you and your fighting bully
+in the case of the Crown diamond.&#8221;
+</p>
+<p>&#8220;Indeed!&#8221;
+</p>
+<p>886</p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p>&#8220;I have the cabman who took you to Whitehall
+and the cabman who brought you away. I have the
+commissionaire who saw you near the case. I have
+Ikey Sanders, who refused to cut it up for you.
+Ikey has peached, and the game is up.&#8221;
+</p>
+<p>The veins stood out on the Count&#8217;s forehead.
+His dark, hairy hands were clenched in a convul-
+sion of restrained emotion. He tried to speak, but
+the words would not shape themselves.
+</p>
+<p>&#8220;That&#8217;s the hand I play from,&#8221; said Holmes. &#8220;I
+put it all upon the table. But one card is missing.
+It&#8217;s the king of diamonds. I don&#8217;t know where the
+stone is.&#8221;
+</p>
+<p>&#8220;You never shall know.&#8221;
+</p>
+<p>&#8220;No? Now, be reasonable, Count. Consider the
+situation. You are going to be locked up for twenty
+years. So is Sam Merton. What good are you going
+to get out of your diamond? None in the world.
+But if you hand it over&#8212;well, I&#8217;ll compound a
+felony. We don&#8217;t want you or Sam. We want the
+stone. Give that up, and so far as I am concerned
+you can go free so long as you behave yourself in
+the future. If you make another slip&#8212;well, it will
+be the last. But this time my commission is to get
+the stone, not you.&#8221;
+</p>
+<p>&#8220;But if I refuse?&#8221;
+</p>
+<p>&#8220;Why, then&#8212;alas!&#8212;it must be you and not the
+stone.&#8221;
+</p>
+<p>Billy had appeared in answer to a ring.
+</p>
+<p>&#8220;I think, Count, that it would be as well to have
+your friend Sam at this conference. After all, his
+interests should be represented. Billy, you will see
+a large and ugly gentleman outside the front door.
+Ask him to come up.&#8221;
+</p>
+<p>&#8220;If he won&#8217;t come, sir?&#8221;
+</p>
+<p>&#8220;No violence, Billy. Don&#8217;t be rough with him.
+If you tell him that Count Sylvius wants him he
+will certainly come.&#8221;
+</p>
+<p>&#8220;What are you going to do now?&#8221; asked the
+Count as Billy disappeared.
+</p>
+<p>&#8220;My friend Watson was with me just now. I
+told him that I had a shark and a gudgeon in my
+net; now I am drawing the net and up they come
+together.&#8221;
+</p>
+<p>The Count had risen from his chair, and his
+hand was behind his back. Holmes held some-
+thing half protruding from the pocket of his
+dressing-gown.
+</p>
+<p>&#8220;You won&#8217;t die in your bed, Holmes.&#8221;
+</p>
+<p>&#8220;I have often had the same idea. Does it mat-
+ter very much? After all, Count, your own exit is
+</p>
+<p>more likely to be perpendicular than horizontal.
+But these anticipations of the future are morbid.
+Why not give ourselves up to the unrestrained en-
+joyment of the present?&#8221;
+</p>
+<p>A sudden wild-beast light sprang up in the
+dark, menacing eyes of the master criminal.
+Holmes&#8217;s figure seemed to grow taller as he grew
+tense and ready.
+</p>
+<p>&#8220;It is no use your fingering your revolver, my
+friend,&#8221; he said in a quiet voice. &#8220;You know per-
+fectly well that you dare not use it, even if I gave
+you time to draw it. Nasty, noisy things, revolvers,
+Count. Better stick to air-guns. Ah! I think I hear
+the fairy footstep of your estimable partner. Good
+day, Mr. Merton. Rather dull in the street, is it
+not?&#8221;
+</p>
+<p>The prize-fighter, a heavily built young man
+with a stupid, obstinate, slab-sided face, stood
+awkwardly at the door, looking about him with
+a puzzled expression. Holmes&#8217;s debonair manner
+was a new experience, and though he vaguely felt
+that it was hostile, he did not know how to counter
+it. He turned to his more astute comrade for help.
+</p>
+<p>&#8220;What&#8217;s the game now, Count? What&#8217;s this fel-
+low want? What&#8217;s up?&#8221; His voice was deep and
+raucous.
+</p>
+<p>The Count shrugged his shoulders, and it was
+Holmes who answered.
+</p>
+<p>&#8220;If I may put it in a nutshell, Mr. Merton, I
+should say it was all up.&#8221;
+</p>
+<p>The boxer still addressed his remarks to his as-
+sociate.
+</p>
+<p>&#8220;Is this cove trying to be funny, or what? I&#8217;m
+not in the funny mood myself.&#8221;
+</p>
+<p>&#8220;No, I expect not,&#8221; said Holmes. &#8220;I think I
+can promise you that you will feel even less hu-
+morous as the evening advances. Now, look here,
+Count Sylvius. I&#8217;m a busy man and I can&#8217;t waste
+time. I&#8217;m going into that bedroom. Pray make
+yourselves quite at home in my absence. You can
+explain to your friend how the matter lies without
+the restraint of my presence. I shall try over the
+Hoffman &#8216;Barcarole&#8217; upon my violin. In five min-
+utes I shall return for your final answer. You quite
+grasp the alternative, do you not? Shall we take
+you, or shall we have the stone?&#8221;
+</p>
+<p>Holmes withdrew, picking up his violin from
+the corner as he passed. A few moments later the
+long-drawn, wailing notes of that most haunting
+of tunes came faintly through the closed door of
+the bedroom.
+</p>
+<p>&#8220;What is it, then?&#8221; asked Merton anxiously as
+his companion turned to him. &#8220;Does he know
+about the stone?&#8221;
+</p>
+<p>887</p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p>The Adventure Of The Mazarin Stone
+</p>
+<p>&#8220;He knows a damned sight too much about it.
+I&#8217;m not sure that he doesn&#8217;t know all about it.&#8221;
+</p>
+<p>&#8220;Good Lord!&#8221; The boxer&#8217;s sallow face turned a
+shade whiter.
+</p>
+<p>&#8220;Ikey Sanders has split on us.&#8221;
+&#8220;He has, has he? I&#8217;ll do him down a thick &#8217;un
+</p>
+<p>for that if I swing for it.&#8221;
+&#8220;That won&#8217;t help us much. We&#8217;ve got to make
+</p>
+<p>up our minds what to do.&#8221;
+&#8220;Half a mo&#8217;,&#8221; said the boxer, looking suspi-
+</p>
+<p>ciously at the bedroom door. &#8220;He&#8217;s a leary cove
+that wants watching. I suppose he&#8217;s not listening?&#8221;
+</p>
+<p>&#8220;How can he be listening with that music go-
+ing?&#8221;
+</p>
+<p>&#8220;That&#8217;s right. Maybe somebody&#8217;s behind a cur-
+tain. Too many curtains in this room.&#8221; As he
+looked round he suddenly saw for the first time
+the effigy in the window, and stood staring and
+pointing, too amazed for words.
+</p>
+<p>&#8220;Tut! it&#8217;s only a dummy,&#8221; said the Count.
+&#8220;A fake, is it? Well, strike me! Madame Tus-
+</p>
+<p>saud ain&#8217;t in it. It&#8217;s the living spit of him, gown
+and all. But them curtains, Count!&#8221;
+</p>
+<p>&#8220;Oh, confound the curtains! We are wasting
+our time, and there is none too much. He can lag
+us over this stone.&#8221;
+</p>
+<p>&#8220;The deuce he can!&#8221;
+&#8220;But he&#8217;ll let us slip if we only tell him where
+</p>
+<p>the swag is.&#8221;
+&#8220;What! Give it up? Give up a hundred thou-
+</p>
+<p>sand quid?&#8221;
+&#8220;It&#8217;s one or the other.&#8221;
+Merton scratched his short-cropped pate.
+&#8220;He&#8217;s alone in there. Let&#8217;s do him in. If his
+</p>
+<p>light were out we should have nothing to fear.&#8221;
+The Count shook his head.
+&#8220;He is armed and ready. If we shot him we
+</p>
+<p>could hardly get away in a place like this. Besides,
+it&#8217;s likely enough that the police know whatever
+evidence he has got. Hallo! What was that?&#8221;
+</p>
+<p>There was a vague sound which seemed to
+come from the window. Both men sprang round,
+but all was quiet. Save for the one strange figure
+seated in the chair, the room was certainly empty.
+</p>
+<p>&#8220;Something in the street,&#8221; said Merton. &#8220;Now
+look here, guv&#8217;nor, you&#8217;ve got the brains. Surely
+you can think a way out of it. If slugging is no use
+then it&#8217;s up to you.&#8221;
+</p>
+<p>&#8220;I&#8217;ve fooled better men than he,&#8221; the Count an-
+swered. &#8220;The stone is here in my secret pocket. I
+</p>
+<p>take no chances leaving it about. It can be out of
+England to-night and cut into four pieces in Ams-
+terdam before Sunday. He knows nothing of Van
+Seddar.&#8221;
+</p>
+<p>&#8220;I thought Van Seddar was going next week.&#8221;
+&#8220;He was. But now he must get off by the next
+</p>
+<p>boat. One or other of us must slip round with the
+stone to Lime Street and tell him.&#8221;
+</p>
+<p>&#8220;But the false bottom ain&#8217;t ready.&#8221;
+&#8220;Well, he must take it as it is and chance it.
+</p>
+<p>There&#8217;s not a moment to lose.&#8221; Again, with the
+sense of danger which becomes an instinct with
+the sportsman, he paused and looked hard at the
+window. Yes, it was surely from the street that the
+faint sound had come.
+</p>
+<p>&#8220;As to Holmes,&#8221; he continued, &#8220;we can fool
+him easily enough. You see, the damned fool
+won&#8217;t arrest us if he can get the stone. Well,
+we&#8217;ll promise him the stone. We&#8217;ll put him on the
+wrong track about it, and before he finds that it is
+the wrong track it will be in Holland and we out
+of the country.&#8221;
+</p>
+<p>&#8220;That sounds good to me!&#8221; cried Sam Merton
+with a grin.
+</p>
+<p>&#8220;You go on and tell the Dutchman to get a
+move on him. I&#8217;ll see this sucker and fill him up
+with a bogus confession. I&#8217;ll tell him that the stone
+is in Liverpool. Confound that whining music; it
+gets on my nerves! By the time he finds it isn&#8217;t
+in Liverpool it will be in quarters and we on the
+blue water. Come back here, out of a line with that
+keyhole. Here is the stone.&#8221;
+</p>
+<p>&#8220;I wonder you dare carry it.&#8221;
+&#8220;Where could I have it safer? If we could take
+</p>
+<p>it out of Whitehall someone else could surely take
+it out of my lodgings.&#8221;
+</p>
+<p>&#8220;Let&#8217;s have a look at it.&#8221;
+Count Sylvius cast a somewhat unflattering
+</p>
+<p>glance at his associate and disregarded the un-
+washed hand which was extended towards him.
+</p>
+<p>&#8220;What&#8212;d&#8217;ye think I&#8217;m going to snatch it off
+you? See here, mister, I&#8217;m getting a bit tired of
+your ways.&#8221;
+</p>
+<p>&#8220;Well, well, no offence, Sam. We can&#8217;t afford to
+quarrel. Come over to the window if you want to
+see the beauty properly. Now hold it to the light!
+Here!&#8221;
+</p>
+<p>&#8220;Thank you!&#8221;
+With a single spring Holmes had leaped from
+</p>
+<p>the dummy&#8217;s chair and had grasped the precious
+jewel. He held it now in one hand, while his other
+pointed a revolver at the Count&#8217;s head. The two
+</p>
+<p>888</p>
+
+</div></div>
+<div style="page-break-before:always; page-break-after:always"><div><p>villains staggered back in utter amazement. Be-
+fore they had recovered Holmes had pressed the
+electric bell.
+</p>
+<p>&#8220;No violence, gentlemen&#8212;no violence, I beg of
+you! Consider the furniture! It must be very clear
+to you that your position is an impossible one. The
+police are waiting below.&#8221;
+</p>
+<p>The Count&#8217;s bewilderment overmastered his
+rage and fear.
+</p>
+<p>&#8220;But how the deuce&#8212;?&#8221; he gasped.
+&#8220;Your surprise is very natural. You are not
+</p>
+<p>aware that a second door from my bedroom leads
+behind that curtain. I fancied that you must have
+heard me when I displaced the figure, but luck
+was on my side. It gave me a chance of listen-
+ing to your racy conversation which would have
+been painfully constrained had you been aware of
+my presence.&#8221;
+</p>
+<p>The Count gave a gesture of resignation.
+&#8220;We give you best, Holmes. I believe you are
+</p>
+<p>the devil himself.&#8221;
+&#8220;Not far from him, at any rate,&#8221; Holmes an-
+</p>
+<p>swered with a polite smile.
+Sam Merton&#8217;s slow intellect had only gradually
+</p>
+<p>appreciated the situation. Now, as the sound of
+heavy steps came from the stairs outside, he broke
+silence at last.
